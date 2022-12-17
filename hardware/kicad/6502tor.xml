@@ -1,0 +1,2887 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/Users/josephmarlin/Documents/KiCad/6.0/projects/6502tor/6502tor.kicad_sch</source>
+    <date>Wednesday, December 07, 2022 at 05:16:50 PM</date>
+    <tool>Eeschema (6.0.9-0)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>6502tor.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>0.01uf</value>
+      <footprint>6502tor:C1206</footprint>
+      <libsource lib="6502tor-eagle-import" part="C-USC1206" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>656bc788-6bb7-45f1-ad39-799711e6b5c6</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>1uf</value>
+      <footprint>6502tor:C1206</footprint>
+      <libsource lib="6502tor-eagle-import" part="C-USC1206" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ce5af760-27f7-479e-8fc5-5f2ddd1b8a7f</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>0.01uf</value>
+      <footprint>6502tor:C1206</footprint>
+      <libsource lib="6502tor-eagle-import" part="C-USC1206" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3984d8b1-a904-4397-92f1-1be852aac092</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>0.1uf</value>
+      <footprint>6502tor:C1206</footprint>
+      <libsource lib="6502tor-eagle-import" part="C-USC1206" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8803d269-b605-447d-bad3-edfcc84a4672</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>0.1uf</value>
+      <footprint>6502tor:C1206</footprint>
+      <libsource lib="6502tor-eagle-import" part="C-USC1206" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d0fc87d5-6cc3-465b-9319-979b2c71fd45</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>0.01uf</value>
+      <footprint>6502tor:C1206</footprint>
+      <libsource lib="6502tor-eagle-import" part="C-USC1206" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>192154af-b79f-4544-8d68-d63fd8ae6c28</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>0.1uf</value>
+      <footprint>6502tor:C1206</footprint>
+      <libsource lib="6502tor-eagle-import" part="C-USC1206" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f0827bb3-efe9-4067-88f2-e196e26bb668</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>4.7uf</value>
+      <footprint>6502tor:C1206</footprint>
+      <libsource lib="6502tor-eagle-import" part="C-USC1206" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ac5555a6-e419-4834-9648-fd3d2f5e7920</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>0.1uf</value>
+      <footprint>6502tor:C1206</footprint>
+      <libsource lib="6502tor-eagle-import" part="C-USC1206" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>143ebb93-19b9-4177-a40e-d147182d8396</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>0.1uf</value>
+      <footprint>6502tor:C1206</footprint>
+      <libsource lib="6502tor-eagle-import" part="C-USC1206" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5f7bc125-01e8-4d6c-a278-89565b489adc</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>0.1uf</value>
+      <footprint>6502tor:C1206</footprint>
+      <libsource lib="6502tor-eagle-import" part="C-USC1206" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a88cef57-f536-4b4d-8c09-bec61dc3d87a</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>0.1uf</value>
+      <footprint>6502tor:C1206</footprint>
+      <libsource lib="6502tor-eagle-import" part="C-USC1206" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6f5ef5db-c51a-4321-b8e5-24218cf9c456</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>0.1uf</value>
+      <footprint>6502tor:C1206</footprint>
+      <libsource lib="6502tor-eagle-import" part="C-USC1206" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2446b1fc-c4dd-4be6-9d9c-c716c59cd18d</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>0.1uf</value>
+      <footprint>6502tor:C1206</footprint>
+      <libsource lib="6502tor-eagle-import" part="C-USC1206" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>601d5d48-a736-4bfa-9a4f-7c74957f4982</tstamps>
+    </comp>
+    <comp ref="C15">
+      <value>0.1uf</value>
+      <footprint>6502tor:C1206</footprint>
+      <libsource lib="6502tor-eagle-import" part="C-USC1206" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>37014d2e-3bf2-49f7-86ce-3b263c619685</tstamps>
+    </comp>
+    <comp ref="C16">
+      <value>0.1uf</value>
+      <footprint>6502tor:C1206</footprint>
+      <libsource lib="6502tor-eagle-import" part="C-USC1206" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d64b7cde-e032-4146-a439-4cb729db29c5</tstamps>
+    </comp>
+    <comp ref="C17">
+      <value>0.1uf</value>
+      <footprint>6502tor:C1206</footprint>
+      <libsource lib="6502tor-eagle-import" part="C-USC1206" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6b6f7435-4b99-4c90-b905-95a035126906</tstamps>
+    </comp>
+    <comp ref="C18">
+      <value>0.1uf</value>
+      <footprint>6502tor:C1206</footprint>
+      <libsource lib="6502tor-eagle-import" part="C-USC1206" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>591d631e-1956-492c-a28a-c046498fb7dd</tstamps>
+    </comp>
+    <comp ref="C19">
+      <value>0.1uf</value>
+      <footprint>6502tor:C1206</footprint>
+      <libsource lib="6502tor-eagle-import" part="C-USC1206" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>411c4d48-d4bd-4bcf-a7c6-3e0caf930b57</tstamps>
+    </comp>
+    <comp ref="C20">
+      <value>0.1uf</value>
+      <footprint>6502tor:C1206</footprint>
+      <libsource lib="6502tor-eagle-import" part="C-USC1206" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>55ce6694-dfca-4ddf-9564-02b426dded61</tstamps>
+    </comp>
+    <comp ref="IC1">
+      <value>W65C02SP</value>
+      <footprint>6502tor:DIL40</footprint>
+      <libsource lib="6502tor-eagle-import" part="W65C02SP" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a69202a2-9f24-4126-907a-c6100d73f774</tstamps>
+    </comp>
+    <comp ref="IC2">
+      <value>74245N</value>
+      <footprint>6502tor:DIL20</footprint>
+      <libsource lib="6502tor-eagle-import" part="74245N" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1feba680-d334-47a3-8bc1-62603cbf6ce2</tstamps>
+    </comp>
+    <comp ref="IC3">
+      <value>7400N</value>
+      <footprint>6502tor:DIL14</footprint>
+      <libsource lib="6502tor-eagle-import" part="7400N" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b0ba0ab8-1daf-41fc-8694-61a19db449a8 78732bd6-7bab-4ed1-961d-3c7a6d30a9d3 e6cf41d0-e738-4369-9e37-ea6c7262306c 22c2ae6f-fbb9-477c-ada8-d19d225330e1</tstamps>
+    </comp>
+    <comp ref="IC4">
+      <value>7400N</value>
+      <footprint>6502tor:DIL14</footprint>
+      <libsource lib="6502tor-eagle-import" part="7400N" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dfe3a915-5cc7-43e9-b46b-60461e709edf f37ae5be-3dd0-4a69-9f32-d06b2918bb7c a92d7833-1697-4c16-9d73-3e7c18d09413 a8a1a5aa-ebc5-4ba2-ad5f-223b286229b5</tstamps>
+    </comp>
+    <comp ref="IC5">
+      <value>7400N</value>
+      <footprint>6502tor:DIL14</footprint>
+      <libsource lib="6502tor-eagle-import" part="7400N" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7444faf4-0cfc-4cad-bc15-f23b935964ef 9eede46c-fd20-4cf5-b08c-bd4f1308467d 70b03b72-27aa-4113-9e20-553fc5e11ea7 7083012b-c21c-497c-bfae-3f093c5a0e10</tstamps>
+    </comp>
+    <comp ref="IC6">
+      <value>555N</value>
+      <footprint>6502tor:DIL08</footprint>
+      <libsource lib="6502tor-eagle-import" part="555N" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1e08a3da-a7a8-4b6d-bb99-d517e7e1ba30</tstamps>
+    </comp>
+    <comp ref="IC7">
+      <value>555N</value>
+      <footprint>6502tor:DIL08</footprint>
+      <libsource lib="6502tor-eagle-import" part="555N" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>16d47bc1-026d-413f-826e-69017275411a</tstamps>
+    </comp>
+    <comp ref="IC8">
+      <value>7404N</value>
+      <footprint>6502tor:DIL14</footprint>
+      <libsource lib="6502tor-eagle-import" part="7404N" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d053a8f8-54ce-4fac-821e-940241f9669d 5c02c57f-4d51-45b9-90a1-2ce37378b82e d7c69bd5-9369-4bec-96d8-394db3a05ddf af510271-6b1c-46a9-88ac-bc2317650b0a 8a6eebdc-806a-486d-b93a-ad46b8a75aca 3c77aadb-a2e1-4156-9bf6-c22db3eeca3f</tstamps>
+    </comp>
+    <comp ref="IC9">
+      <value>7404N</value>
+      <footprint>6502tor:DIL14</footprint>
+      <libsource lib="6502tor-eagle-import" part="7404N" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f9a6d31c-f02f-4514-8da8-42536e51ab7d f74e185f-ddf1-4a34-a3e6-ddb0eeedd8ec cb1b7928-561f-44a0-a3c0-e213db4dec7d 91e22e94-6620-4be3-a4cf-fdf53436892b 4037531c-8142-4c97-8f35-a3733f3aa49d 36425a68-afab-4bb5-86d8-90325c1cdcaa</tstamps>
+    </comp>
+    <comp ref="IC10">
+      <value>555N</value>
+      <footprint>6502tor:DIL08</footprint>
+      <libsource lib="6502tor-eagle-import" part="555N" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f8e9693a-e2b3-4dd3-aa24-061171575434</tstamps>
+    </comp>
+    <comp ref="IC11">
+      <value>74245N</value>
+      <footprint>6502tor:DIL20</footprint>
+      <libsource lib="6502tor-eagle-import" part="74245N" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>58c8075f-5505-457a-901c-4035a5545097</tstamps>
+    </comp>
+    <comp ref="IC12">
+      <value>74245N</value>
+      <footprint>6502tor:DIL20</footprint>
+      <libsource lib="6502tor-eagle-import" part="74245N" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>830c505d-ff4b-4252-a317-cb83f36572af</tstamps>
+    </comp>
+    <comp ref="IC14">
+      <value>74244N</value>
+      <footprint>6502tor:DIL20</footprint>
+      <libsource lib="6502tor-eagle-import" part="74244N" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b056b114-1866-44bc-9115-91eacf32fb10 422f5602-52b7-45f2-a8e9-6176e3879e09</tstamps>
+    </comp>
+    <comp ref="IC15">
+      <value>74574N</value>
+      <footprint>6502tor:DIL20</footprint>
+      <libsource lib="6502tor-eagle-import" part="74574N" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>11002e65-ec9f-4e6f-aa7c-2ae3be90b29b</tstamps>
+    </comp>
+    <comp ref="IC16">
+      <value>CP2102N-A02-GQFN24</value>
+      <footprint>6502tor:QFN50P400X400X80-25N</footprint>
+      <libsource lib="6502tor-eagle-import" part="CP2102N-A02-GQFN24" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>80352896-404e-4c56-9f0c-b1d606f0b878</tstamps>
+    </comp>
+    <comp ref="IC17">
+      <value>TPS7A2036PDBVR</value>
+      <footprint>6502tor:SOT95P280X145-5N</footprint>
+      <libsource lib="6502tor-eagle-import" part="TPS7A2036PDBVR" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2fb99e86-fb06-49d9-aca0-d73dcd44873d</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>UJ2-MBH-1-SMT-TR</value>
+      <footprint>6502tor:UJ2MBH1SMTTR</footprint>
+      <libsource lib="6502tor-eagle-import" part="UJ2-MBH-1-SMT-TR" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0e8ad29d-d1b7-4307-b3c8-53417f05c8bf</tstamps>
+    </comp>
+    <comp ref="LED1">
+      <value>CLM3C-AKW-CTBVA253</value>
+      <footprint>6502tor:LEDM3020X140N</footprint>
+      <libsource lib="6502tor-eagle-import" part="CLM3C-AKW-CTBVA253" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9a2a3b78-3ffb-4636-ad4c-f4d0e9df38a9</tstamps>
+    </comp>
+    <comp ref="LED2">
+      <value>CLM3C-AKW-CTBVA253</value>
+      <footprint>6502tor:LEDM3020X140N</footprint>
+      <libsource lib="6502tor-eagle-import" part="CLM3C-AKW-CTBVA253" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>aa012b2e-2412-4743-92b5-2ebe2009201e</tstamps>
+    </comp>
+    <comp ref="LED3">
+      <value>CLM3C-AKW-CTBVA253</value>
+      <footprint>6502tor:LEDM3020X140N</footprint>
+      <libsource lib="6502tor-eagle-import" part="CLM3C-AKW-CTBVA253" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b72558b4-f7a2-4aac-baad-8ea70cb9fb9d</tstamps>
+    </comp>
+    <comp ref="LED4">
+      <value>CLM3C-AKW-CTBVA253</value>
+      <footprint>6502tor:LEDM3020X140N</footprint>
+      <libsource lib="6502tor-eagle-import" part="CLM3C-AKW-CTBVA253" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5e70b358-b3ff-4c29-9dde-4fec2a9d9927</tstamps>
+    </comp>
+    <comp ref="LED5">
+      <value>CLM3C-AKW-CTBVA253</value>
+      <footprint>6502tor:LEDM3020X140N</footprint>
+      <libsource lib="6502tor-eagle-import" part="CLM3C-AKW-CTBVA253" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4eabad8d-17f2-4756-b94a-ea3281d2020d</tstamps>
+    </comp>
+    <comp ref="LED6">
+      <value>CLM3C-AKW-CTBVA253</value>
+      <footprint>6502tor:LEDM3020X140N</footprint>
+      <libsource lib="6502tor-eagle-import" part="CLM3C-AKW-CTBVA253" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2d8bc88e-e23f-4bd5-8227-1c35da3a6891</tstamps>
+    </comp>
+    <comp ref="LED7">
+      <value>CLM3C-AKW-CTBVA253</value>
+      <footprint>6502tor:LEDM3020X140N</footprint>
+      <libsource lib="6502tor-eagle-import" part="CLM3C-AKW-CTBVA253" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dfbc1ba3-90f7-4446-a513-5399c8b3735a</tstamps>
+    </comp>
+    <comp ref="LED8">
+      <value>CLM3C-AKW-CTBVA253</value>
+      <footprint>6502tor:LEDM3020X140N</footprint>
+      <libsource lib="6502tor-eagle-import" part="CLM3C-AKW-CTBVA253" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8c9cc7f9-f09f-4032-9ffe-3277a633fe4b</tstamps>
+    </comp>
+    <comp ref="LED9">
+      <value>CLM3C-AKW-CTBVA253</value>
+      <footprint>6502tor:LEDM3020X140N</footprint>
+      <libsource lib="6502tor-eagle-import" part="CLM3C-AKW-CTBVA253" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bdd1dbe4-f435-450f-a951-ef4350731ac2</tstamps>
+    </comp>
+    <comp ref="LED10">
+      <value>CLM3C-AKW-CTBVA253</value>
+      <footprint>6502tor:LEDM3020X140N</footprint>
+      <libsource lib="6502tor-eagle-import" part="CLM3C-AKW-CTBVA253" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b562f789-eb86-4811-b030-2831840c1cd5</tstamps>
+    </comp>
+    <comp ref="LED11">
+      <value>CLM3C-AKW-CTBVA253</value>
+      <footprint>6502tor:LEDM3020X140N</footprint>
+      <libsource lib="6502tor-eagle-import" part="CLM3C-AKW-CTBVA253" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f06df44a-19e4-4bd6-81c6-2fd07acfdbe8</tstamps>
+    </comp>
+    <comp ref="LED12">
+      <value>CLM3C-AKW-CTBVA253</value>
+      <footprint>6502tor:LEDM3020X140N</footprint>
+      <libsource lib="6502tor-eagle-import" part="CLM3C-AKW-CTBVA253" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3fb447e4-0b86-44de-aa76-ceb3e3efa423</tstamps>
+    </comp>
+    <comp ref="LED13">
+      <value>CLM3C-AKW-CTBVA253</value>
+      <footprint>6502tor:LEDM3020X140N</footprint>
+      <libsource lib="6502tor-eagle-import" part="CLM3C-AKW-CTBVA253" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cb1bb99c-b93b-4fd7-a92d-0dd6fa26acc0</tstamps>
+    </comp>
+    <comp ref="LED14">
+      <value>CLM3C-AKW-CTBVA253</value>
+      <footprint>6502tor:LEDM3020X140N</footprint>
+      <libsource lib="6502tor-eagle-import" part="CLM3C-AKW-CTBVA253" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b15450ac-9992-47b5-b71a-43e99ef16a4f</tstamps>
+    </comp>
+    <comp ref="LED15">
+      <value>CLM3C-AKW-CTBVA253</value>
+      <footprint>6502tor:LEDM3020X140N</footprint>
+      <libsource lib="6502tor-eagle-import" part="CLM3C-AKW-CTBVA253" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cba1ebf5-c2ce-4bb2-af99-3b281c2a0daf</tstamps>
+    </comp>
+    <comp ref="LED16">
+      <value>CLM3C-AKW-CTBVA253</value>
+      <footprint>6502tor:LEDM3020X140N</footprint>
+      <libsource lib="6502tor-eagle-import" part="CLM3C-AKW-CTBVA253" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e6754278-c8f4-4a15-a23d-c350a46d56e0</tstamps>
+    </comp>
+    <comp ref="LED17">
+      <value>CLM3C-AKW-CTBVA253</value>
+      <footprint>6502tor:LEDM3020X140N</footprint>
+      <libsource lib="6502tor-eagle-import" part="CLM3C-AKW-CTBVA253" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0221958b-8e30-445f-9a54-6aaad6ddef0f</tstamps>
+    </comp>
+    <comp ref="LED18">
+      <value>CLM3C-AKW-CTBVA253</value>
+      <footprint>6502tor:LEDM3020X140N</footprint>
+      <libsource lib="6502tor-eagle-import" part="CLM3C-AKW-CTBVA253" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4a4abaa8-923f-490e-806f-14687936be18</tstamps>
+    </comp>
+    <comp ref="LED19">
+      <value>CLM3C-AKW-CTBVA253</value>
+      <footprint>6502tor:LEDM3020X140N</footprint>
+      <libsource lib="6502tor-eagle-import" part="CLM3C-AKW-CTBVA253" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1a6bac6f-c547-4acc-a157-8087e15ae429</tstamps>
+    </comp>
+    <comp ref="LED20">
+      <value>CLM3C-AKW-CTBVA253</value>
+      <footprint>6502tor:LEDM3020X140N</footprint>
+      <libsource lib="6502tor-eagle-import" part="CLM3C-AKW-CTBVA253" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>85ba6d89-f5aa-4011-9d6d-2e5011894c58</tstamps>
+    </comp>
+    <comp ref="LED21">
+      <value>CLM3C-AKW-CTBVA253</value>
+      <footprint>6502tor:LEDM3020X140N</footprint>
+      <libsource lib="6502tor-eagle-import" part="CLM3C-AKW-CTBVA253" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e15f3437-1c1a-4e32-a00b-783f7fa95f50</tstamps>
+    </comp>
+    <comp ref="LED22">
+      <value>CLM3C-AKW-CTBVA253</value>
+      <footprint>6502tor:LEDM3020X140N</footprint>
+      <libsource lib="6502tor-eagle-import" part="CLM3C-AKW-CTBVA253" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8f1e0a84-6686-4147-a842-322b4f07930e</tstamps>
+    </comp>
+    <comp ref="LED23">
+      <value>CLM3C-AKW-CTBVA253</value>
+      <footprint>6502tor:LEDM3020X140N</footprint>
+      <libsource lib="6502tor-eagle-import" part="CLM3C-AKW-CTBVA253" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1ea4b499-2efb-4592-ab88-ef1f602e83d3</tstamps>
+    </comp>
+    <comp ref="LED24">
+      <value>CLM3C-AKW-CTBVA253</value>
+      <footprint>6502tor:LEDM3020X140N</footprint>
+      <libsource lib="6502tor-eagle-import" part="CLM3C-AKW-CTBVA253" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5e5bbb6d-531a-4cd8-af9a-b595b5fbbbe3</tstamps>
+    </comp>
+    <comp ref="LED25">
+      <value>CLM3C-AKW-CTBVA253</value>
+      <footprint>6502tor:LEDM3020X140N</footprint>
+      <libsource lib="6502tor-eagle-import" part="CLM3C-AKW-CTBVA253" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>054ac51a-f373-4ad4-af07-c0d30e685c02</tstamps>
+    </comp>
+    <comp ref="LED26">
+      <value>CLM3C-AKW-CTBVA253</value>
+      <footprint>6502tor:LEDM3020X140N</footprint>
+      <libsource lib="6502tor-eagle-import" part="CLM3C-AKW-CTBVA253" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4782bd96-8ed6-47aa-820c-c05344e4b67d</tstamps>
+    </comp>
+    <comp ref="LED27">
+      <value>CLM3C-AKW-CTBVA253</value>
+      <footprint>6502tor:LEDM3020X140N</footprint>
+      <libsource lib="6502tor-eagle-import" part="CLM3C-AKW-CTBVA253" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>257211bd-33ec-4f39-bb50-cf042b7cb25b</tstamps>
+    </comp>
+    <comp ref="LED28">
+      <value>CLM3C-AKW-CTBVA253</value>
+      <footprint>6502tor:LEDM3020X140N</footprint>
+      <libsource lib="6502tor-eagle-import" part="CLM3C-AKW-CTBVA253" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>abc73153-0ca1-4f1d-bb00-e868c4ee1e99</tstamps>
+    </comp>
+    <comp ref="LED29">
+      <value>CLM3C-AKW-CTBVA253</value>
+      <footprint>6502tor:LEDM3020X140N</footprint>
+      <libsource lib="6502tor-eagle-import" part="CLM3C-AKW-CTBVA253" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4ac50aa6-9511-4c0b-9160-4f980e79d62f</tstamps>
+    </comp>
+    <comp ref="LED30">
+      <value>CLM3C-AKW-CTBVA253</value>
+      <footprint>6502tor:LEDM3020X140N</footprint>
+      <libsource lib="6502tor-eagle-import" part="CLM3C-AKW-CTBVA253" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0f129139-5a96-4e8d-8fff-7e10188ca936</tstamps>
+    </comp>
+    <comp ref="LED31">
+      <value>CLM3C-AKW-CTBVA253</value>
+      <footprint>6502tor:LEDM3020X140N</footprint>
+      <libsource lib="6502tor-eagle-import" part="CLM3C-AKW-CTBVA253" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>39bef993-6327-462d-bf7c-abcc4d56e555</tstamps>
+    </comp>
+    <comp ref="LED32">
+      <value>CLM3C-AKW-CTBVA253</value>
+      <footprint>6502tor:LEDM3020X140N</footprint>
+      <libsource lib="6502tor-eagle-import" part="CLM3C-AKW-CTBVA253" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>59706264-a9d6-4b75-bb72-9e7f2cee33f2</tstamps>
+    </comp>
+    <comp ref="LED33">
+      <value>CLM3C-AKW-CTBVA253</value>
+      <footprint>6502tor:LEDM3020X140N</footprint>
+      <libsource lib="6502tor-eagle-import" part="CLM3C-AKW-CTBVA253" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>06f56a38-d70d-4490-8966-ae4f907e7218</tstamps>
+    </comp>
+    <comp ref="LED34">
+      <value>CLM3C-AKW-CTBVA253</value>
+      <footprint>6502tor:LEDM3020X140N</footprint>
+      <libsource lib="6502tor-eagle-import" part="CLM3C-AKW-CTBVA253" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1ac74e3c-8df9-4dd6-8dd2-2bf912dd1c03</tstamps>
+    </comp>
+    <comp ref="LED35">
+      <value>CLM3C-AKW-CTBVA253</value>
+      <footprint>6502tor:LEDM3020X140N</footprint>
+      <libsource lib="6502tor-eagle-import" part="CLM3C-AKW-CTBVA253" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1709c506-62c2-4830-9ebb-46297a0cd994</tstamps>
+    </comp>
+    <comp ref="LED36">
+      <value>CLM3C-AKW-CTBVA253</value>
+      <footprint>6502tor:LEDM3020X140N</footprint>
+      <libsource lib="6502tor-eagle-import" part="CLM3C-AKW-CTBVA253" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f957ad39-b005-43b1-9ba0-9e001dc7577c</tstamps>
+    </comp>
+    <comp ref="LED37">
+      <value>CLM3C-AKW-CTBVA253</value>
+      <footprint>6502tor:LEDM3020X140N</footprint>
+      <libsource lib="6502tor-eagle-import" part="CLM3C-AKW-CTBVA253" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b910c705-dd92-4791-a33e-8c940b2a2bca</tstamps>
+    </comp>
+    <comp ref="LED38">
+      <value>CLM3C-AKW-CTBVA253</value>
+      <footprint>6502tor:LEDM3020X140N</footprint>
+      <libsource lib="6502tor-eagle-import" part="CLM3C-AKW-CTBVA253" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4f334006-ef84-427c-8b3e-db302f9a7b94</tstamps>
+    </comp>
+    <comp ref="QG1">
+      <value>QG5460</value>
+      <footprint>6502tor:DIL08S</footprint>
+      <libsource lib="6502tor-eagle-import" part="QG5460" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bbddbeb5-24db-4d95-a53b-d812f37f9e72</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>R-US_R0805</value>
+      <footprint>6502tor:R0805</footprint>
+      <libsource lib="6502tor-eagle-import" part="R-US_R0805" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>72bef7b8-7fce-439b-b54f-42055c283ace</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>R-US_R0805</value>
+      <footprint>6502tor:R0805</footprint>
+      <libsource lib="6502tor-eagle-import" part="R-US_R0805" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>129e33dd-3bd7-4778-8f33-244b0adc3e0b</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>R-US_R0805</value>
+      <footprint>6502tor:R0805</footprint>
+      <libsource lib="6502tor-eagle-import" part="R-US_R0805" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>60d035f9-b289-48f1-83cc-259b2580ec54</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>R-US_R0805</value>
+      <footprint>6502tor:R0805</footprint>
+      <libsource lib="6502tor-eagle-import" part="R-US_R0805" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8525379a-e4f4-4443-9f49-0cf116a4ddf8</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>R-US_R0805</value>
+      <footprint>6502tor:R0805</footprint>
+      <libsource lib="6502tor-eagle-import" part="R-US_R0805" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>36926edf-c855-46b5-89f0-b3fae05f3be1</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>R-US_R0805</value>
+      <footprint>6502tor:R0805</footprint>
+      <libsource lib="6502tor-eagle-import" part="R-US_R0805" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>762ee959-e9bb-4bb7-89a6-796dec25f6c2</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>R-US_R0805</value>
+      <footprint>6502tor:R0805</footprint>
+      <libsource lib="6502tor-eagle-import" part="R-US_R0805" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>40bd8579-5352-435b-bca9-3afdd1bc87c7</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>R-US_R0805</value>
+      <footprint>6502tor:R0805</footprint>
+      <libsource lib="6502tor-eagle-import" part="R-US_R0805" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e3fedc76-a0fd-444a-b892-5cf14a13b3e0</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>R-US_R0805</value>
+      <footprint>6502tor:R0805</footprint>
+      <libsource lib="6502tor-eagle-import" part="R-US_R0805" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9433eb7f-fe0d-4575-859e-4970e690dcbc</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>R-US_R0805</value>
+      <footprint>6502tor:R0805</footprint>
+      <libsource lib="6502tor-eagle-import" part="R-US_R0805" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f331ce96-428e-4b92-8014-9b84dd09c9b1</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>R-US_R0805</value>
+      <footprint>6502tor:R0805</footprint>
+      <libsource lib="6502tor-eagle-import" part="R-US_R0805" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dfe0a173-e58a-494f-b6eb-7549ceaec195</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>R-US_R0805</value>
+      <footprint>6502tor:R0805</footprint>
+      <libsource lib="6502tor-eagle-import" part="R-US_R0805" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>64db1f66-c86c-4810-be11-f985a2c1a758</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>R-US_R0805</value>
+      <footprint>6502tor:R0805</footprint>
+      <libsource lib="6502tor-eagle-import" part="R-US_R0805" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2a7325a1-57ea-45bc-9a6d-bc0220d8ed89</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>R-US_R0805</value>
+      <footprint>6502tor:R0805</footprint>
+      <libsource lib="6502tor-eagle-import" part="R-US_R0805" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a65f872f-fdee-4863-82bc-fab11b14a85a</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>R-US_R0805</value>
+      <footprint>6502tor:R0805</footprint>
+      <libsource lib="6502tor-eagle-import" part="R-US_R0805" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ac75093b-9762-4483-9d95-f7e37ec0a172</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>R-US_R0805</value>
+      <footprint>6502tor:R0805</footprint>
+      <libsource lib="6502tor-eagle-import" part="R-US_R0805" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7e3278e5-2f32-47d5-8076-f568a5002016</tstamps>
+    </comp>
+    <comp ref="R17">
+      <value>R-US_R0805</value>
+      <footprint>6502tor:R0805</footprint>
+      <libsource lib="6502tor-eagle-import" part="R-US_R0805" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9168927d-8996-420e-831a-a6d9bac6c361</tstamps>
+    </comp>
+    <comp ref="R18">
+      <value>R-US_R0805</value>
+      <footprint>6502tor:R0805</footprint>
+      <libsource lib="6502tor-eagle-import" part="R-US_R0805" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a77f9a38-d639-47a5-8893-0e06437ef365</tstamps>
+    </comp>
+    <comp ref="R19">
+      <value>R-US_R0805</value>
+      <footprint>6502tor:R0805</footprint>
+      <libsource lib="6502tor-eagle-import" part="R-US_R0805" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4f5c067f-7a88-4cde-a0a1-b02a3479a7b1</tstamps>
+    </comp>
+    <comp ref="R20">
+      <value>R-US_R0805</value>
+      <footprint>6502tor:R0805</footprint>
+      <libsource lib="6502tor-eagle-import" part="R-US_R0805" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2a9790a5-2f20-4176-ad9a-0ad56800ba7a</tstamps>
+    </comp>
+    <comp ref="R21">
+      <value>R-US_R0805</value>
+      <footprint>6502tor:R0805</footprint>
+      <libsource lib="6502tor-eagle-import" part="R-US_R0805" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b78a173e-52c7-4e43-9a72-bd170e99f267</tstamps>
+    </comp>
+    <comp ref="R22">
+      <value>R-US_R0805</value>
+      <footprint>6502tor:R0805</footprint>
+      <libsource lib="6502tor-eagle-import" part="R-US_R0805" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cbd2d6e0-7876-489a-8007-7eb0e28d10a2</tstamps>
+    </comp>
+    <comp ref="R23">
+      <value>R-US_R0805</value>
+      <footprint>6502tor:R0805</footprint>
+      <libsource lib="6502tor-eagle-import" part="R-US_R0805" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5e2abaef-45a9-4c95-92f4-7ce725dc4fe8</tstamps>
+    </comp>
+    <comp ref="R24">
+      <value>R-US_R0805</value>
+      <footprint>6502tor:R0805</footprint>
+      <libsource lib="6502tor-eagle-import" part="R-US_R0805" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f94ff4e5-2936-4f29-b4cf-1d5eea32c080</tstamps>
+    </comp>
+    <comp ref="R25">
+      <value>R-US_R0805</value>
+      <footprint>6502tor:R0805</footprint>
+      <libsource lib="6502tor-eagle-import" part="R-US_R0805" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>82f0bd5c-8440-4036-b561-90015b7270c5</tstamps>
+    </comp>
+    <comp ref="R26">
+      <value>R-US_R0805</value>
+      <footprint>6502tor:R0805</footprint>
+      <libsource lib="6502tor-eagle-import" part="R-US_R0805" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>114b3657-9b1f-4045-a60b-fae256c003ac</tstamps>
+    </comp>
+    <comp ref="R27">
+      <value>R-US_R0805</value>
+      <footprint>6502tor:R0805</footprint>
+      <libsource lib="6502tor-eagle-import" part="R-US_R0805" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2dfe5912-4422-448b-813f-ec2908b0595d</tstamps>
+    </comp>
+    <comp ref="R28">
+      <value>R-US_R0805</value>
+      <footprint>6502tor:R0805</footprint>
+      <libsource lib="6502tor-eagle-import" part="R-US_R0805" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4b6ace55-c61f-4c35-ab01-f71c2a8301b2</tstamps>
+    </comp>
+    <comp ref="R29">
+      <value>R-US_R0805</value>
+      <footprint>6502tor:R0805</footprint>
+      <libsource lib="6502tor-eagle-import" part="R-US_R0805" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3446f833-fc23-4e9a-a1bc-0383ecc58467</tstamps>
+    </comp>
+    <comp ref="R30">
+      <value>R-US_R0805</value>
+      <footprint>6502tor:R0805</footprint>
+      <libsource lib="6502tor-eagle-import" part="R-US_R0805" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>13dd43b9-ae35-40d5-a7a1-0040577c4557</tstamps>
+    </comp>
+    <comp ref="R31">
+      <value>R-US_R0805</value>
+      <footprint>6502tor:R0805</footprint>
+      <libsource lib="6502tor-eagle-import" part="R-US_R0805" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>31d6f1df-5cb9-411e-a13c-ebe92fb1616a</tstamps>
+    </comp>
+    <comp ref="R32">
+      <value>R-US_R0805</value>
+      <footprint>6502tor:R0805</footprint>
+      <libsource lib="6502tor-eagle-import" part="R-US_R0805" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>421b8d0d-823c-41fd-8564-662832738e96</tstamps>
+    </comp>
+    <comp ref="R33">
+      <value>R-US_R0805</value>
+      <footprint>6502tor:R0805</footprint>
+      <libsource lib="6502tor-eagle-import" part="R-US_R0805" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9112d3b9-3f9b-4cef-aa4d-9f203b3afe98</tstamps>
+    </comp>
+    <comp ref="R34">
+      <value>R-US_R0805</value>
+      <footprint>6502tor:R0805</footprint>
+      <libsource lib="6502tor-eagle-import" part="R-US_R0805" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>24ec6b5d-61e7-4c4e-bee8-a99e4f9e26be</tstamps>
+    </comp>
+    <comp ref="R35">
+      <value>R-US_R0805</value>
+      <footprint>6502tor:R0805</footprint>
+      <libsource lib="6502tor-eagle-import" part="R-US_R0805" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c2b6134a-dc4e-439c-b23a-e9e0d6839bd7</tstamps>
+    </comp>
+    <comp ref="R36">
+      <value>R-US_R0805</value>
+      <footprint>6502tor:R0805</footprint>
+      <libsource lib="6502tor-eagle-import" part="R-US_R0805" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1399bd0b-8e69-49fb-b2da-551c47787676</tstamps>
+    </comp>
+    <comp ref="R37">
+      <value>R-US_R0805</value>
+      <footprint>6502tor:R0805</footprint>
+      <libsource lib="6502tor-eagle-import" part="R-US_R0805" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>79d3610e-2f16-4d64-ab36-1bea1ad971f5</tstamps>
+    </comp>
+    <comp ref="R38">
+      <value>R-US_R0805</value>
+      <footprint>6502tor:R0805</footprint>
+      <libsource lib="6502tor-eagle-import" part="R-US_R0805" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>23db339a-d567-4982-88d9-9228b28f573d</tstamps>
+    </comp>
+    <comp ref="R39">
+      <value>R-US_R0805</value>
+      <footprint>6502tor:R0805</footprint>
+      <libsource lib="6502tor-eagle-import" part="R-US_R0805" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f9db4483-3525-409f-859c-b64c0a8346f8</tstamps>
+    </comp>
+    <comp ref="R40">
+      <value>R-US_R0805</value>
+      <footprint>6502tor:R0805</footprint>
+      <libsource lib="6502tor-eagle-import" part="R-US_R0805" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c9b9c0b1-d2be-4a4e-af82-95d439798ad7</tstamps>
+    </comp>
+    <comp ref="R41">
+      <value>R-US_R0805</value>
+      <footprint>6502tor:R0805</footprint>
+      <libsource lib="6502tor-eagle-import" part="R-US_R0805" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ca66f3d0-5f0d-4185-8876-99830750a032</tstamps>
+    </comp>
+    <comp ref="R42">
+      <value>R-US_R0805</value>
+      <footprint>6502tor:R0805</footprint>
+      <libsource lib="6502tor-eagle-import" part="R-US_R0805" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>337f1314-e2a3-4dc8-a822-926def58a570</tstamps>
+    </comp>
+    <comp ref="R43">
+      <value>R-US_R0805</value>
+      <footprint>6502tor:R0805</footprint>
+      <libsource lib="6502tor-eagle-import" part="R-US_R0805" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e795f1eb-329d-4eeb-832a-05ed76b2f2fa</tstamps>
+    </comp>
+    <comp ref="R44">
+      <value>R-US_R0805</value>
+      <footprint>6502tor:R0805</footprint>
+      <libsource lib="6502tor-eagle-import" part="R-US_R0805" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>590b5a57-d86e-4560-8130-f7818a1932b5</tstamps>
+    </comp>
+    <comp ref="R45">
+      <value>R-US_R0805</value>
+      <footprint>6502tor:R0805</footprint>
+      <libsource lib="6502tor-eagle-import" part="R-US_R0805" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1d9ee1fa-70a0-4391-b7a7-f4b4706b8c03</tstamps>
+    </comp>
+    <comp ref="R46">
+      <value>R-US_R0805</value>
+      <footprint>6502tor:R0805</footprint>
+      <libsource lib="6502tor-eagle-import" part="R-US_R0805" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f9178146-428a-4298-b885-7e70ebc96b0a</tstamps>
+    </comp>
+    <comp ref="R47">
+      <value>R-US_R0805</value>
+      <footprint>6502tor:R0805</footprint>
+      <libsource lib="6502tor-eagle-import" part="R-US_R0805" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>231769f2-f1d7-4099-99a3-79cdd83b1074</tstamps>
+    </comp>
+    <comp ref="R48">
+      <value>R-US_R0805</value>
+      <footprint>6502tor:R0805</footprint>
+      <libsource lib="6502tor-eagle-import" part="R-US_R0805" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5862c9db-534e-4c4b-b640-e8655dfb6ad6</tstamps>
+    </comp>
+    <comp ref="R49">
+      <value>R-US_R0805</value>
+      <footprint>6502tor:R0805</footprint>
+      <libsource lib="6502tor-eagle-import" part="R-US_R0805" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5d0a77a6-7552-4388-9e66-4ff731e9f6b1</tstamps>
+    </comp>
+    <comp ref="R50">
+      <value>R-US_R0805</value>
+      <footprint>6502tor:R0805</footprint>
+      <libsource lib="6502tor-eagle-import" part="R-US_R0805" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>95b23c9e-f0ae-4e2f-8293-6f1aa03a15e9</tstamps>
+    </comp>
+    <comp ref="R51">
+      <value>R-US_R0805</value>
+      <footprint>6502tor:R0805</footprint>
+      <libsource lib="6502tor-eagle-import" part="R-US_R0805" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9498812b-c93c-4f6c-be39-cee29ca2f7b5</tstamps>
+    </comp>
+    <comp ref="R52">
+      <value>R-US_R0805</value>
+      <footprint>6502tor:R0805</footprint>
+      <libsource lib="6502tor-eagle-import" part="R-US_R0805" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2db1f3a3-334d-4813-9836-f5b70fc4c32f</tstamps>
+    </comp>
+    <comp ref="R53">
+      <value>R-US_R0805</value>
+      <footprint>6502tor:R0805</footprint>
+      <libsource lib="6502tor-eagle-import" part="R-US_R0805" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7e7ebc2c-50de-485e-b8ee-af498e18e5c9</tstamps>
+    </comp>
+    <comp ref="R54">
+      <value>R-US_R0805</value>
+      <footprint>6502tor:R0805</footprint>
+      <libsource lib="6502tor-eagle-import" part="R-US_R0805" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6b5c5a8e-432b-4e7f-aac9-12a6ab0e9c17</tstamps>
+    </comp>
+    <comp ref="R55">
+      <value>R-US_R0805</value>
+      <footprint>6502tor:R0805</footprint>
+      <libsource lib="6502tor-eagle-import" part="R-US_R0805" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>510e1697-e08e-4955-bb24-9831b0fcc640</tstamps>
+    </comp>
+    <comp ref="R56">
+      <value>R-US_R0805</value>
+      <footprint>6502tor:R0805</footprint>
+      <libsource lib="6502tor-eagle-import" part="R-US_R0805" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e43d3cfa-2e7b-4457-a4c2-4b1f23e73be4</tstamps>
+    </comp>
+    <comp ref="R57">
+      <value>R-US_R0805</value>
+      <footprint>6502tor:R0805</footprint>
+      <libsource lib="6502tor-eagle-import" part="R-US_R0805" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>12315feb-7696-4bd9-b2f8-35e8953d3f29</tstamps>
+    </comp>
+    <comp ref="R58">
+      <value>R-US_R0805</value>
+      <footprint>6502tor:R0805</footprint>
+      <libsource lib="6502tor-eagle-import" part="R-US_R0805" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f0953c4f-4f98-470d-bd1c-b1a44c643cde</tstamps>
+    </comp>
+    <comp ref="R59">
+      <value>R-US_R0805</value>
+      <footprint>6502tor:R0805</footprint>
+      <libsource lib="6502tor-eagle-import" part="R-US_R0805" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1db01d81-bcaf-49b1-a622-4e6a97e705b3</tstamps>
+    </comp>
+    <comp ref="R60">
+      <value>PTV09A-4020F-B105</value>
+      <footprint>6502tor:PTV09A4020FB103</footprint>
+      <libsource lib="6502tor-eagle-import" part="PTV09A-4020F-B105" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4073b94d-937d-43a1-981e-7a8af306454b</tstamps>
+    </comp>
+    <comp ref="R61">
+      <value>1K</value>
+      <footprint>6502tor:R0805</footprint>
+      <libsource lib="6502tor-eagle-import" part="R-US_R0805" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4372be39-9b51-4a8a-9eea-be968007aac0</tstamps>
+    </comp>
+    <comp ref="R62">
+      <value>1K</value>
+      <footprint>6502tor:R0805</footprint>
+      <libsource lib="6502tor-eagle-import" part="R-US_R0805" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cc4901f1-e401-4311-991b-feeb0bbd16a2</tstamps>
+    </comp>
+    <comp ref="R63">
+      <value>1K</value>
+      <footprint>6502tor:R0805</footprint>
+      <libsource lib="6502tor-eagle-import" part="R-US_R0805" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>07f69564-bbe2-411e-87e8-d930f5184fda</tstamps>
+    </comp>
+    <comp ref="R64">
+      <value>1M</value>
+      <footprint>6502tor:R0805</footprint>
+      <libsource lib="6502tor-eagle-import" part="R-US_R0805" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>49ea07e8-ca6a-401c-8ce3-ce8679978942</tstamps>
+    </comp>
+    <comp ref="R65">
+      <value>1K</value>
+      <footprint>6502tor:R0805</footprint>
+      <libsource lib="6502tor-eagle-import" part="R-US_R0805" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c91f00bc-68b3-42fa-893e-ab0c60a96254</tstamps>
+    </comp>
+    <comp ref="R66">
+      <value>1M</value>
+      <footprint>6502tor:R0805</footprint>
+      <libsource lib="6502tor-eagle-import" part="R-US_R0805" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7d819ac4-f153-4261-98f7-da3473a05c67</tstamps>
+    </comp>
+    <comp ref="R67">
+      <value>1K</value>
+      <footprint>6502tor:R0805</footprint>
+      <libsource lib="6502tor-eagle-import" part="R-US_R0805" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8eb74148-8ee0-4d9b-a7cb-d605b5c70a66</tstamps>
+    </comp>
+    <comp ref="R68">
+      <value>R-US_R0805</value>
+      <footprint>6502tor:R0805</footprint>
+      <libsource lib="6502tor-eagle-import" part="R-US_R0805" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2c9466aa-7cfe-4e38-bb93-98c327e77682</tstamps>
+    </comp>
+    <comp ref="R69">
+      <value>R-US_R0805</value>
+      <footprint>6502tor:R0805</footprint>
+      <libsource lib="6502tor-eagle-import" part="R-US_R0805" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4d3fb3b9-c140-4044-bf33-cd9dc7af9172</tstamps>
+    </comp>
+    <comp ref="R70">
+      <value>1K</value>
+      <footprint>6502tor:R0805</footprint>
+      <libsource lib="6502tor-eagle-import" part="R-US_R0805" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ba711d0b-8c06-4b2a-b37e-3984ebd33db3</tstamps>
+    </comp>
+    <comp ref="R71">
+      <value>1K</value>
+      <footprint>6502tor:R0805</footprint>
+      <libsource lib="6502tor-eagle-import" part="R-US_R0805" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b18d3e25-762d-46da-bf20-8fa88c8bc58e</tstamps>
+    </comp>
+    <comp ref="R72">
+      <value>1K</value>
+      <footprint>6502tor:R0805</footprint>
+      <libsource lib="6502tor-eagle-import" part="R-US_R0805" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a3e4eabd-134b-4d53-a31a-8e54ec0a004c</tstamps>
+    </comp>
+    <comp ref="R73">
+      <value>1K</value>
+      <footprint>6502tor:R0805</footprint>
+      <libsource lib="6502tor-eagle-import" part="R-US_R0805" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>60232479-781b-4766-8144-becf25f81ca4</tstamps>
+    </comp>
+    <comp ref="S1">
+      <value>MHPS2273</value>
+      <footprint>6502tor:MHPS2273</footprint>
+      <libsource lib="6502tor-eagle-import" part="MHPS2273" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0fd3c02f-1593-4df2-b2f5-9a94673bbb5e</tstamps>
+    </comp>
+    <comp ref="S3">
+      <value>MHPS2273</value>
+      <footprint>6502tor:MHPS2273</footprint>
+      <libsource lib="6502tor-eagle-import" part="MHPS2273" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ad01c6c2-9b02-4b09-aabe-719fad576b5f</tstamps>
+    </comp>
+    <comp ref="S4">
+      <value>OS103011MS8QP1</value>
+      <footprint>6502tor:OS103011MS8QP1</footprint>
+      <libsource lib="6502tor-eagle-import" part="OS103011MS8QP1" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>60b21297-5b59-4970-b58c-b4efe73ecf27</tstamps>
+    </comp>
+    <comp ref="S5">
+      <value>MHPS2273</value>
+      <footprint>6502tor:MHPS2273</footprint>
+      <libsource lib="6502tor-eagle-import" part="MHPS2273" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9b20b972-0e25-4d05-a4d6-8c37afc131ea</tstamps>
+    </comp>
+    <comp ref="SW1">
+      <value>SW_DIP-8</value>
+      <footprint>6502tor:EDG-08</footprint>
+      <libsource lib="6502tor-eagle-import" part="SW_DIP-8" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>33553e31-cfd6-47d1-9b54-3ab7c9d2cbb5</tstamps>
+    </comp>
+    <comp ref="SW2">
+      <value>SW_DIP-8</value>
+      <footprint>6502tor:EDG-08</footprint>
+      <libsource lib="6502tor-eagle-import" part="SW_DIP-8" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1da631e2-7c8d-45ae-9e4d-46a8397a4718</tstamps>
+    </comp>
+    <comp ref="SW3">
+      <value>SW_DIP-8</value>
+      <footprint>6502tor:EDG-08</footprint>
+      <libsource lib="6502tor-eagle-import" part="SW_DIP-8" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5976f40e-c6f0-41db-87ce-fadc396da153</tstamps>
+    </comp>
+    <comp ref="SW4">
+      <value>SW_DIP-1</value>
+      <footprint>6502tor:EDG-01</footprint>
+      <libsource lib="6502tor-eagle-import" part="SW_DIP-1" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>57df12f0-ef36-4399-a677-93a9c53698a0</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>HM62256BLP</value>
+      <footprint>Package_DIP:DIP-28_W15.24mm</footprint>
+      <datasheet>https://web.mit.edu/6.115/www/document/62256.pdf</datasheet>
+      <libsource lib="Memory_RAM" part="HM62256BLP" description="32,768-word × 8-bit High Speed CMOS Static RAM, 70ns, DIP-28"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="6502tor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>62df946e-e479-4eb4-be66-663421e5b09c</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="6502tor-eagle-import" part="555N">
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">555N</field>
+        <field name="Footprint">6502tor:DIL08</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="TR" type="input"/>
+        <pin num="3" name="Q" type="output"/>
+        <pin num="4" name="R" type="input"/>
+        <pin num="5" name="CV" type="input"/>
+        <pin num="6" name="THR" type="input"/>
+        <pin num="7" name="DIS" type="input"/>
+        <pin num="8" name="V+" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="6502tor-eagle-import" part="7400N">
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">7400N</field>
+        <field name="Footprint">6502tor:DIL14</field>
+      </fields>
+      <pins>
+        <pin num="1" name="I0" type="input"/>
+        <pin num="2" name="I1" type="input"/>
+        <pin num="3" name="O" type="output"/>
+        <pin num="4" name="I0" type="input"/>
+        <pin num="5" name="I1" type="input"/>
+        <pin num="6" name="O" type="output"/>
+        <pin num="7" name="GND" type="power_in"/>
+        <pin num="8" name="O" type="output"/>
+        <pin num="9" name="I0" type="input"/>
+        <pin num="10" name="I1" type="input"/>
+        <pin num="11" name="O" type="output"/>
+        <pin num="12" name="I0" type="input"/>
+        <pin num="13" name="I1" type="input"/>
+        <pin num="14" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="6502tor-eagle-import" part="7404N">
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">7404N</field>
+        <field name="Footprint">6502tor:DIL14</field>
+      </fields>
+      <pins>
+        <pin num="1" name="I" type="input"/>
+        <pin num="2" name="O" type="output"/>
+        <pin num="3" name="I" type="input"/>
+        <pin num="4" name="O" type="output"/>
+        <pin num="5" name="I" type="input"/>
+        <pin num="6" name="O" type="output"/>
+        <pin num="7" name="GND" type="power_in"/>
+        <pin num="8" name="O" type="output"/>
+        <pin num="9" name="I" type="input"/>
+        <pin num="10" name="O" type="output"/>
+        <pin num="11" name="I" type="input"/>
+        <pin num="12" name="O" type="output"/>
+        <pin num="13" name="I" type="input"/>
+        <pin num="14" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="6502tor-eagle-import" part="74244N">
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">74244N</field>
+        <field name="Footprint">6502tor:DIL20</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="input"/>
+        <pin num="2" name="A1" type="input"/>
+        <pin num="3" name="Y4" type="tri_state"/>
+        <pin num="4" name="A2" type="input"/>
+        <pin num="5" name="Y3" type="tri_state"/>
+        <pin num="6" name="A3" type="input"/>
+        <pin num="7" name="Y2" type="tri_state"/>
+        <pin num="8" name="A4" type="input"/>
+        <pin num="9" name="Y1" type="tri_state"/>
+        <pin num="10" name="GND" type="power_in"/>
+        <pin num="11" name="A1" type="input"/>
+        <pin num="12" name="Y4" type="tri_state"/>
+        <pin num="13" name="A2" type="input"/>
+        <pin num="14" name="Y3" type="tri_state"/>
+        <pin num="15" name="A3" type="input"/>
+        <pin num="16" name="Y2" type="tri_state"/>
+        <pin num="17" name="A4" type="input"/>
+        <pin num="18" name="Y1" type="tri_state"/>
+        <pin num="19" name="G" type="input"/>
+        <pin num="20" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="6502tor-eagle-import" part="74245N">
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">74245N</field>
+        <field name="Footprint">6502tor:DIL20</field>
+      </fields>
+      <pins>
+        <pin num="1" name="DIR" type="input"/>
+        <pin num="2" name="A1" type="bidirectional"/>
+        <pin num="3" name="A2" type="bidirectional"/>
+        <pin num="4" name="A3" type="bidirectional"/>
+        <pin num="5" name="A4" type="bidirectional"/>
+        <pin num="6" name="A5" type="bidirectional"/>
+        <pin num="7" name="A6" type="bidirectional"/>
+        <pin num="8" name="A7" type="bidirectional"/>
+        <pin num="9" name="A8" type="bidirectional"/>
+        <pin num="10" name="GND" type="power_in"/>
+        <pin num="11" name="B8" type="bidirectional"/>
+        <pin num="12" name="B7" type="bidirectional"/>
+        <pin num="13" name="B6" type="bidirectional"/>
+        <pin num="14" name="B5" type="bidirectional"/>
+        <pin num="15" name="B4" type="bidirectional"/>
+        <pin num="16" name="B3" type="bidirectional"/>
+        <pin num="17" name="B2" type="bidirectional"/>
+        <pin num="18" name="B1" type="bidirectional"/>
+        <pin num="19" name="G" type="input"/>
+        <pin num="20" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="6502tor-eagle-import" part="74574N">
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">74574N</field>
+        <field name="Footprint">6502tor:DIL20</field>
+      </fields>
+      <pins>
+        <pin num="1" name="OC" type="input"/>
+        <pin num="2" name="1D" type="input"/>
+        <pin num="3" name="2D" type="input"/>
+        <pin num="4" name="3D" type="input"/>
+        <pin num="5" name="4D" type="input"/>
+        <pin num="6" name="5D" type="input"/>
+        <pin num="7" name="6D" type="input"/>
+        <pin num="8" name="7D" type="input"/>
+        <pin num="9" name="8D" type="input"/>
+        <pin num="10" name="GND" type="power_in"/>
+        <pin num="11" name="CLK" type="input"/>
+        <pin num="12" name="8Q" type="tri_state"/>
+        <pin num="13" name="7Q" type="tri_state"/>
+        <pin num="14" name="6Q" type="tri_state"/>
+        <pin num="15" name="5Q" type="tri_state"/>
+        <pin num="16" name="4Q" type="tri_state"/>
+        <pin num="17" name="3Q" type="tri_state"/>
+        <pin num="18" name="2Q" type="tri_state"/>
+        <pin num="19" name="1Q" type="tri_state"/>
+        <pin num="20" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="6502tor-eagle-import" part="C-USC1206">
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C-USC1206</field>
+        <field name="Footprint">6502tor:C1206</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="6502tor-eagle-import" part="CLM3C-AKW-CTBVA253">
+      <fields>
+        <field name="Reference">LED</field>
+        <field name="Value">CLM3C-AKW-CTBVA253</field>
+        <field name="Footprint">6502tor:LEDM3020X140N</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="bidirectional"/>
+        <pin num="2" name="A" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="6502tor-eagle-import" part="CP2102N-A02-GQFN24">
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">CP2102N-A02-GQFN24</field>
+        <field name="Footprint">6502tor:QFN50P400X400X80-25N</field>
+      </fields>
+      <pins>
+        <pin num="1" name="RI_/_CLK" type="bidirectional"/>
+        <pin num="2" name="GND_1" type="bidirectional"/>
+        <pin num="3" name="D+" type="bidirectional"/>
+        <pin num="4" name="D-" type="bidirectional"/>
+        <pin num="5" name="VIO" type="bidirectional"/>
+        <pin num="6" name="VDD" type="bidirectional"/>
+        <pin num="7" name="VREGIN" type="bidirectional"/>
+        <pin num="8" name="VBUS" type="bidirectional"/>
+        <pin num="9" name="RSTB" type="bidirectional"/>
+        <pin num="10" name="NC_1" type="bidirectional"/>
+        <pin num="11" name="GPIO.3_/_WAKEUP" type="bidirectional"/>
+        <pin num="12" name="GPIO.2_/_RS485" type="bidirectional"/>
+        <pin num="13" name="GPIO.1_/_RXT" type="bidirectional"/>
+        <pin num="14" name="GPIO.0_/_TXT" type="bidirectional"/>
+        <pin num="15" name="SUSPENDB" type="bidirectional"/>
+        <pin num="16" name="NC_2" type="bidirectional"/>
+        <pin num="17" name="SUSPEND" type="bidirectional"/>
+        <pin num="18" name="CTS" type="bidirectional"/>
+        <pin num="19" name="RTS" type="bidirectional"/>
+        <pin num="20" name="RXD" type="bidirectional"/>
+        <pin num="21" name="TXD" type="bidirectional"/>
+        <pin num="22" name="DSR" type="bidirectional"/>
+        <pin num="23" name="DTR" type="bidirectional"/>
+        <pin num="24" name="DCD" type="bidirectional"/>
+        <pin num="25" name="GND_2" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="6502tor-eagle-import" part="MHPS2273">
+      <fields>
+        <field name="Reference">S</field>
+        <field name="Value">MHPS2273</field>
+        <field name="Footprint">6502tor:MHPS2273</field>
+      </fields>
+      <pins>
+        <pin num="A1" name="NC_1" type="bidirectional"/>
+        <pin num="A2" name="NO_1" type="bidirectional"/>
+        <pin num="B1" name="NC_2" type="bidirectional"/>
+        <pin num="B2" name="NO_2" type="bidirectional"/>
+        <pin num="C1" name="COM_1" type="bidirectional"/>
+        <pin num="C2" name="COM_2" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="6502tor-eagle-import" part="OS103011MS8QP1">
+      <fields>
+        <field name="Reference">S</field>
+        <field name="Value">OS103011MS8QP1</field>
+        <field name="Footprint">6502tor:OS103011MS8QP1</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="bidirectional"/>
+        <pin num="2" name="2" type="bidirectional"/>
+        <pin num="3" name="3" type="bidirectional"/>
+        <pin num="4" name="4" type="bidirectional"/>
+        <pin num="5" name="5" type="bidirectional"/>
+        <pin num="6" name="6" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="6502tor-eagle-import" part="PTV09A-4020F-B105">
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">PTV09A-4020F-B105</field>
+        <field name="Footprint">6502tor:PTV09A4020FB103</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="bidirectional"/>
+        <pin num="2" name="2" type="bidirectional"/>
+        <pin num="3" name="3" type="bidirectional"/>
+        <pin num="4" name="MH1" type="bidirectional"/>
+        <pin num="5" name="MH2" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="6502tor-eagle-import" part="QG5460">
+      <fields>
+        <field name="Reference">QG</field>
+        <field name="Value">QG5460</field>
+        <field name="Footprint">6502tor:DIL08S</field>
+      </fields>
+      <pins>
+        <pin num="4" name="GND" type="power_in"/>
+        <pin num="5" name="OUT" type="output"/>
+        <pin num="8" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="6502tor-eagle-import" part="R-US_R0805">
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R-US_R0805</field>
+        <field name="Footprint">6502tor:R0805</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="6502tor-eagle-import" part="SW_DIP-1">
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_DIP-1</field>
+        <field name="Footprint">6502tor:EDG-01</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="6502tor-eagle-import" part="SW_DIP-8">
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_DIP-8</field>
+        <field name="Footprint">6502tor:EDG-08</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+        <pin num="5" name="5" type="passive"/>
+        <pin num="6" name="6" type="passive"/>
+        <pin num="7" name="7" type="passive"/>
+        <pin num="8" name="8" type="passive"/>
+        <pin num="9" name="9" type="passive"/>
+        <pin num="10" name="10" type="passive"/>
+        <pin num="11" name="11" type="passive"/>
+        <pin num="12" name="12" type="passive"/>
+        <pin num="13" name="13" type="passive"/>
+        <pin num="14" name="14" type="passive"/>
+        <pin num="15" name="15" type="passive"/>
+        <pin num="16" name="16" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="6502tor-eagle-import" part="TPS7A2036PDBVR">
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">TPS7A2036PDBVR</field>
+        <field name="Footprint">6502tor:SOT95P280X145-5N</field>
+      </fields>
+      <pins>
+        <pin num="1" name="IN" type="bidirectional"/>
+        <pin num="2" name="GND" type="bidirectional"/>
+        <pin num="3" name="EN" type="bidirectional"/>
+        <pin num="4" name="N/C" type="no_connect"/>
+        <pin num="5" name="OUT" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="6502tor-eagle-import" part="UJ2-MBH-1-SMT-TR">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">UJ2-MBH-1-SMT-TR</field>
+        <field name="Footprint">6502tor:UJ2MBH1SMTTR</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="bidirectional"/>
+        <pin num="2" name="2" type="bidirectional"/>
+        <pin num="3" name="3" type="bidirectional"/>
+        <pin num="4" name="4" type="bidirectional"/>
+        <pin num="5" name="5" type="bidirectional"/>
+        <pin num="MP1" name="MP1" type="bidirectional"/>
+        <pin num="MP2" name="MP2" type="bidirectional"/>
+        <pin num="MP3" name="MP3" type="bidirectional"/>
+        <pin num="MP4" name="MP4" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="6502tor-eagle-import" part="W65C02SP">
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">W65C02SP</field>
+        <field name="Footprint">6502tor:DIL40</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~{VPB}" type="output"/>
+        <pin num="2" name="RDY" type="input"/>
+        <pin num="3" name="PHI1O" type="output"/>
+        <pin num="4" name="~{IRQB}" type="input"/>
+        <pin num="5" name="~{MLB}" type="output"/>
+        <pin num="6" name="~{NMIB}" type="input"/>
+        <pin num="7" name="SYNC" type="output"/>
+        <pin num="8" name="VDD" type="power_in"/>
+        <pin num="9" name="A0" type="output"/>
+        <pin num="10" name="A1" type="output"/>
+        <pin num="11" name="A2" type="output"/>
+        <pin num="12" name="A3" type="output"/>
+        <pin num="13" name="A4" type="output"/>
+        <pin num="14" name="A5" type="output"/>
+        <pin num="15" name="A6" type="output"/>
+        <pin num="16" name="A7" type="output"/>
+        <pin num="17" name="A8" type="output"/>
+        <pin num="18" name="A9" type="output"/>
+        <pin num="19" name="A10" type="output"/>
+        <pin num="20" name="A11" type="output"/>
+        <pin num="21" name="VSS" type="power_in"/>
+        <pin num="22" name="A12" type="output"/>
+        <pin num="23" name="A13" type="output"/>
+        <pin num="24" name="A14" type="output"/>
+        <pin num="25" name="A15" type="output"/>
+        <pin num="26" name="D7" type="bidirectional"/>
+        <pin num="27" name="D6" type="bidirectional"/>
+        <pin num="28" name="D5" type="bidirectional"/>
+        <pin num="29" name="D4" type="bidirectional"/>
+        <pin num="30" name="D3" type="bidirectional"/>
+        <pin num="31" name="D2" type="bidirectional"/>
+        <pin num="32" name="D1" type="bidirectional"/>
+        <pin num="33" name="D0" type="bidirectional"/>
+        <pin num="34" name="R~{WB}" type="output"/>
+        <pin num="35" name="NC" type="no_connect"/>
+        <pin num="36" name="BE" type="input"/>
+        <pin num="37" name="PHI2" type="input"/>
+        <pin num="38" name="~{SOB}" type="input"/>
+        <pin num="39" name="PHI2O" type="output"/>
+        <pin num="40" name="~{RESB}" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Memory_RAM" part="HM62256BLP">
+      <description>32,768-word × 8-bit High Speed CMOS Static RAM, 70ns, DIP-28</description>
+      <docs>https://web.mit.edu/6.115/www/document/62256.pdf</docs>
+      <footprints>
+        <fp>DIP*W15.24mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">HM62256BLP</field>
+        <field name="Footprint">Package_DIP:DIP-28_W15.24mm</field>
+        <field name="Datasheet">https://web.mit.edu/6.115/www/document/62256.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A14" type="input"/>
+        <pin num="2" name="A12" type="input"/>
+        <pin num="3" name="A7" type="input"/>
+        <pin num="4" name="A6" type="input"/>
+        <pin num="5" name="A5" type="input"/>
+        <pin num="6" name="A4" type="input"/>
+        <pin num="7" name="A3" type="input"/>
+        <pin num="8" name="A2" type="input"/>
+        <pin num="9" name="A1" type="input"/>
+        <pin num="10" name="A0" type="input"/>
+        <pin num="11" name="Q0" type="tri_state"/>
+        <pin num="12" name="Q1" type="tri_state"/>
+        <pin num="13" name="Q2" type="tri_state"/>
+        <pin num="14" name="GND" type="power_in"/>
+        <pin num="15" name="Q3" type="tri_state"/>
+        <pin num="16" name="Q4" type="tri_state"/>
+        <pin num="17" name="Q5" type="tri_state"/>
+        <pin num="18" name="Q6" type="tri_state"/>
+        <pin num="19" name="Q7" type="tri_state"/>
+        <pin num="20" name="~{CS}" type="input"/>
+        <pin num="21" name="A10" type="input"/>
+        <pin num="22" name="~{OE}" type="input"/>
+        <pin num="23" name="A11" type="input"/>
+        <pin num="24" name="A9" type="input"/>
+        <pin num="25" name="A8" type="input"/>
+        <pin num="26" name="A13" type="input"/>
+        <pin num="27" name="~{WE}" type="input"/>
+        <pin num="28" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="6502tor-eagle-import">
+      <uri>/Users/josephmarlin/Documents/KiCad/6.0/projects/6502tor/6502tor-eagle-import.kicad_sym</uri>
+    </library>
+    <library logical="Memory_RAM">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Memory_RAM.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="0">
+      <node ref="C1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C10" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C11" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C12" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C13" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C14" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C15" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C16" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C17" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C18" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C19" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C20" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C4" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C5" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C6" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C7" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C8" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C9" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="IC10" pin="1" pinfunction="GND" pintype="power_in"/>
+      <node ref="IC15" pin="1" pinfunction="OC" pintype="input"/>
+      <node ref="IC16" pin="2" pinfunction="GND_1" pintype="bidirectional"/>
+      <node ref="IC16" pin="25" pinfunction="GND_2" pintype="bidirectional"/>
+      <node ref="IC17" pin="2" pinfunction="GND" pintype="bidirectional"/>
+      <node ref="IC6" pin="1" pinfunction="GND" pintype="power_in"/>
+      <node ref="IC7" pin="1" pinfunction="GND" pintype="power_in"/>
+      <node ref="IC9" pin="11" pinfunction="I" pintype="input"/>
+      <node ref="IC9" pin="13" pinfunction="I" pintype="input"/>
+      <node ref="IC9" pin="9" pinfunction="I" pintype="input"/>
+      <node ref="J1" pin="5" pinfunction="5" pintype="bidirectional"/>
+      <node ref="J1" pin="MP1" pinfunction="MP1" pintype="bidirectional"/>
+      <node ref="J1" pin="MP2" pinfunction="MP2" pintype="bidirectional"/>
+      <node ref="J1" pin="MP3" pinfunction="MP3" pintype="bidirectional"/>
+      <node ref="J1" pin="MP4" pinfunction="MP4" pintype="bidirectional"/>
+      <node ref="QG1" pin="4" pinfunction="GND" pintype="power_in"/>
+      <node ref="R1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R10" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R11" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R12" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R13" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R14" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R15" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R16" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R17" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R18" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R19" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R20" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R21" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R22" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R23" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R24" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R25" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R26" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R27" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R28" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R29" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R3" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R30" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R31" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R32" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R33" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R34" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R35" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R36" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R37" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R38" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R39" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R4" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R40" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R41" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R42" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R43" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R44" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R45" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R46" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R47" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R48" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R49" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R5" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R50" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R51" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R52" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R53" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R54" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R55" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R56" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R57" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R6" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R60" pin="4" pinfunction="MH1" pintype="bidirectional"/>
+      <node ref="R60" pin="5" pinfunction="MH2" pintype="bidirectional"/>
+      <node ref="R68" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R69" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R7" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R70" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R71" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R72" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R73" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R8" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R9" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="S1" pin="C1" pinfunction="COM_1" pintype="bidirectional"/>
+      <node ref="S3" pin="A2" pinfunction="NO_1" pintype="bidirectional"/>
+      <node ref="S4" pin="5" pinfunction="5" pintype="bidirectional"/>
+      <node ref="S4" pin="6" pinfunction="6" pintype="bidirectional"/>
+      <node ref="S5" pin="B2" pinfunction="NO_2" pintype="bidirectional"/>
+    </net>
+    <net code="2" name="Net-(C1-Pad2)">
+      <node ref="C1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="IC7" pin="5" pinfunction="CV" pintype="input"/>
+    </net>
+    <net code="3" name="Net-(C2-Pad2)">
+      <node ref="C2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="IC7" pin="2" pinfunction="TR" pintype="input"/>
+      <node ref="IC7" pin="6" pinfunction="THR" pintype="input"/>
+      <node ref="R60" pin="3" pinfunction="3" pintype="bidirectional"/>
+    </net>
+    <net code="4" name="Net-(C3-Pad2)">
+      <node ref="C3" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="IC6" pin="5" pinfunction="CV" pintype="input"/>
+    </net>
+    <net code="5" name="Net-(C4-Pad2)">
+      <node ref="C4" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="IC6" pin="6" pinfunction="THR" pintype="input"/>
+      <node ref="IC6" pin="7" pinfunction="DIS" pintype="input"/>
+      <node ref="R64" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="6" name="Net-(C5-Pad2)">
+      <node ref="C5" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="IC10" pin="6" pinfunction="THR" pintype="input"/>
+      <node ref="IC10" pin="7" pinfunction="DIS" pintype="input"/>
+      <node ref="R66" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="7" name="Net-(C6-Pad2)">
+      <node ref="C6" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="IC10" pin="5" pinfunction="CV" pintype="input"/>
+    </net>
+    <net code="8" name="Net-(C7-Pad2)">
+      <node ref="C7" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C8" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="IC16" pin="5" pinfunction="VIO" pintype="bidirectional"/>
+      <node ref="IC16" pin="6" pinfunction="VDD" pintype="bidirectional"/>
+      <node ref="IC16" pin="7" pinfunction="VREGIN" pintype="bidirectional"/>
+      <node ref="IC16" pin="8" pinfunction="VBUS" pintype="bidirectional"/>
+      <node ref="IC17" pin="5" pinfunction="OUT" pintype="bidirectional"/>
+    </net>
+    <net code="9" name="Net-(IC1-Pad2)">
+      <node ref="IC1" pin="2" pinfunction="RDY" pintype="input"/>
+      <node ref="R58" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="10" name="Net-(IC1-Pad9)">
+      <node ref="IC1" pin="9" pinfunction="A0" pintype="output"/>
+      <node ref="IC12" pin="11" pinfunction="B8" pintype="bidirectional"/>
+      <node ref="LED16" pin="2" pinfunction="A" pintype="bidirectional"/>
+      <node ref="U1" pin="10" pinfunction="A0" pintype="input"/>
+    </net>
+    <net code="11" name="Net-(IC1-Pad10)">
+      <node ref="IC1" pin="10" pinfunction="A1" pintype="output"/>
+      <node ref="IC12" pin="12" pinfunction="B7" pintype="bidirectional"/>
+      <node ref="LED15" pin="2" pinfunction="A" pintype="bidirectional"/>
+      <node ref="U1" pin="9" pinfunction="A1" pintype="input"/>
+    </net>
+    <net code="12" name="Net-(IC1-Pad11)">
+      <node ref="IC1" pin="11" pinfunction="A2" pintype="output"/>
+      <node ref="IC12" pin="13" pinfunction="B6" pintype="bidirectional"/>
+      <node ref="LED14" pin="2" pinfunction="A" pintype="bidirectional"/>
+      <node ref="U1" pin="8" pinfunction="A2" pintype="input"/>
+    </net>
+    <net code="13" name="Net-(IC1-Pad12)">
+      <node ref="IC1" pin="12" pinfunction="A3" pintype="output"/>
+      <node ref="IC12" pin="14" pinfunction="B5" pintype="bidirectional"/>
+      <node ref="LED13" pin="2" pinfunction="A" pintype="bidirectional"/>
+      <node ref="U1" pin="7" pinfunction="A3" pintype="input"/>
+    </net>
+    <net code="14" name="Net-(IC1-Pad13)">
+      <node ref="IC1" pin="13" pinfunction="A4" pintype="output"/>
+      <node ref="IC12" pin="15" pinfunction="B4" pintype="bidirectional"/>
+      <node ref="LED12" pin="2" pinfunction="A" pintype="bidirectional"/>
+      <node ref="U1" pin="6" pinfunction="A4" pintype="input"/>
+    </net>
+    <net code="15" name="Net-(IC1-Pad14)">
+      <node ref="IC1" pin="14" pinfunction="A5" pintype="output"/>
+      <node ref="IC12" pin="16" pinfunction="B3" pintype="bidirectional"/>
+      <node ref="LED11" pin="2" pinfunction="A" pintype="bidirectional"/>
+      <node ref="U1" pin="5" pinfunction="A5" pintype="input"/>
+    </net>
+    <net code="16" name="Net-(IC1-Pad15)">
+      <node ref="IC1" pin="15" pinfunction="A6" pintype="output"/>
+      <node ref="IC12" pin="17" pinfunction="B2" pintype="bidirectional"/>
+      <node ref="LED10" pin="2" pinfunction="A" pintype="bidirectional"/>
+      <node ref="U1" pin="4" pinfunction="A6" pintype="input"/>
+    </net>
+    <net code="17" name="Net-(IC1-Pad16)">
+      <node ref="IC1" pin="16" pinfunction="A7" pintype="output"/>
+      <node ref="IC12" pin="18" pinfunction="B1" pintype="bidirectional"/>
+      <node ref="LED8" pin="2" pinfunction="A" pintype="bidirectional"/>
+      <node ref="U1" pin="3" pinfunction="A7" pintype="input"/>
+    </net>
+    <net code="18" name="Net-(IC1-Pad17)">
+      <node ref="IC1" pin="17" pinfunction="A8" pintype="output"/>
+      <node ref="IC11" pin="11" pinfunction="B8" pintype="bidirectional"/>
+      <node ref="LED9" pin="2" pinfunction="A" pintype="bidirectional"/>
+      <node ref="U1" pin="2" pinfunction="A12" pintype="input"/>
+    </net>
+    <net code="19" name="Net-(IC1-Pad18)">
+      <node ref="IC1" pin="18" pinfunction="A9" pintype="output"/>
+      <node ref="IC11" pin="12" pinfunction="B7" pintype="bidirectional"/>
+      <node ref="LED7" pin="2" pinfunction="A" pintype="bidirectional"/>
+      <node ref="U1" pin="1" pinfunction="A14" pintype="input"/>
+    </net>
+    <net code="20" name="Net-(IC1-Pad19)">
+      <node ref="IC1" pin="19" pinfunction="A10" pintype="output"/>
+      <node ref="IC11" pin="13" pinfunction="B6" pintype="bidirectional"/>
+      <node ref="LED6" pin="2" pinfunction="A" pintype="bidirectional"/>
+      <node ref="U1" pin="21" pinfunction="A10" pintype="input"/>
+    </net>
+    <net code="21" name="Net-(IC1-Pad20)">
+      <node ref="IC1" pin="20" pinfunction="A11" pintype="output"/>
+      <node ref="IC11" pin="14" pinfunction="B5" pintype="bidirectional"/>
+      <node ref="LED5" pin="2" pinfunction="A" pintype="bidirectional"/>
+      <node ref="U1" pin="23" pinfunction="A11" pintype="input"/>
+    </net>
+    <net code="22" name="Net-(IC1-Pad22)">
+      <node ref="IC1" pin="22" pinfunction="A12" pintype="output"/>
+      <node ref="IC11" pin="15" pinfunction="B4" pintype="bidirectional"/>
+      <node ref="LED4" pin="2" pinfunction="A" pintype="bidirectional"/>
+      <node ref="U1" pin="24" pinfunction="A9" pintype="input"/>
+    </net>
+    <net code="23" name="Net-(IC1-Pad23)">
+      <node ref="IC1" pin="23" pinfunction="A13" pintype="output"/>
+      <node ref="IC11" pin="16" pinfunction="B3" pintype="bidirectional"/>
+      <node ref="LED3" pin="2" pinfunction="A" pintype="bidirectional"/>
+      <node ref="U1" pin="25" pinfunction="A8" pintype="input"/>
+    </net>
+    <net code="24" name="Net-(IC1-Pad24)">
+      <node ref="IC1" pin="24" pinfunction="A14" pintype="output"/>
+      <node ref="IC11" pin="17" pinfunction="B2" pintype="bidirectional"/>
+      <node ref="IC5" pin="5" pinfunction="I1" pintype="input"/>
+      <node ref="IC9" pin="3" pinfunction="I" pintype="input"/>
+      <node ref="LED2" pin="2" pinfunction="A" pintype="bidirectional"/>
+    </net>
+    <net code="25" name="Net-(IC1-Pad25)">
+      <node ref="IC1" pin="25" pinfunction="A15" pintype="output"/>
+      <node ref="IC11" pin="18" pinfunction="B1" pintype="bidirectional"/>
+      <node ref="IC5" pin="1" pinfunction="I0" pintype="input"/>
+      <node ref="IC9" pin="5" pinfunction="I" pintype="input"/>
+      <node ref="LED1" pin="2" pinfunction="A" pintype="bidirectional"/>
+      <node ref="U1" pin="26" pinfunction="A13" pintype="input"/>
+    </net>
+    <net code="26" name="Net-(IC1-Pad26)">
+      <node ref="IC1" pin="26" pinfunction="D7" pintype="bidirectional"/>
+      <node ref="IC15" pin="2" pinfunction="1D" pintype="input"/>
+      <node ref="IC2" pin="18" pinfunction="B1" pintype="bidirectional"/>
+      <node ref="LED17" pin="2" pinfunction="A" pintype="bidirectional"/>
+      <node ref="U1" pin="15" pinfunction="Q3" pintype="tri_state"/>
+    </net>
+    <net code="27" name="Net-(IC1-Pad27)">
+      <node ref="IC1" pin="27" pinfunction="D6" pintype="bidirectional"/>
+      <node ref="IC15" pin="3" pinfunction="2D" pintype="input"/>
+      <node ref="IC2" pin="17" pinfunction="B2" pintype="bidirectional"/>
+      <node ref="LED18" pin="2" pinfunction="A" pintype="bidirectional"/>
+      <node ref="U1" pin="16" pinfunction="Q4" pintype="tri_state"/>
+    </net>
+    <net code="28" name="Net-(IC1-Pad28)">
+      <node ref="IC1" pin="28" pinfunction="D5" pintype="bidirectional"/>
+      <node ref="IC15" pin="4" pinfunction="3D" pintype="input"/>
+      <node ref="IC2" pin="16" pinfunction="B3" pintype="bidirectional"/>
+      <node ref="LED19" pin="2" pinfunction="A" pintype="bidirectional"/>
+      <node ref="U1" pin="17" pinfunction="Q5" pintype="tri_state"/>
+    </net>
+    <net code="29" name="Net-(IC1-Pad29)">
+      <node ref="IC1" pin="29" pinfunction="D4" pintype="bidirectional"/>
+      <node ref="IC15" pin="5" pinfunction="4D" pintype="input"/>
+      <node ref="IC2" pin="15" pinfunction="B4" pintype="bidirectional"/>
+      <node ref="LED20" pin="2" pinfunction="A" pintype="bidirectional"/>
+      <node ref="U1" pin="13" pinfunction="Q2" pintype="tri_state"/>
+    </net>
+    <net code="30" name="Net-(IC1-Pad30)">
+      <node ref="IC1" pin="30" pinfunction="D3" pintype="bidirectional"/>
+      <node ref="IC15" pin="6" pinfunction="5D" pintype="input"/>
+      <node ref="IC2" pin="14" pinfunction="B5" pintype="bidirectional"/>
+      <node ref="LED21" pin="2" pinfunction="A" pintype="bidirectional"/>
+      <node ref="U1" pin="18" pinfunction="Q6" pintype="tri_state"/>
+    </net>
+    <net code="31" name="Net-(IC1-Pad31)">
+      <node ref="IC1" pin="31" pinfunction="D2" pintype="bidirectional"/>
+      <node ref="IC15" pin="7" pinfunction="6D" pintype="input"/>
+      <node ref="IC2" pin="13" pinfunction="B6" pintype="bidirectional"/>
+      <node ref="LED22" pin="2" pinfunction="A" pintype="bidirectional"/>
+      <node ref="U1" pin="12" pinfunction="Q1" pintype="tri_state"/>
+    </net>
+    <net code="32" name="Net-(IC1-Pad32)">
+      <node ref="IC1" pin="32" pinfunction="D1" pintype="bidirectional"/>
+      <node ref="IC15" pin="8" pinfunction="7D" pintype="input"/>
+      <node ref="IC2" pin="12" pinfunction="B7" pintype="bidirectional"/>
+      <node ref="LED23" pin="2" pinfunction="A" pintype="bidirectional"/>
+      <node ref="U1" pin="19" pinfunction="Q7" pintype="tri_state"/>
+    </net>
+    <net code="33" name="Net-(IC1-Pad33)">
+      <node ref="IC1" pin="33" pinfunction="D0" pintype="bidirectional"/>
+      <node ref="IC15" pin="9" pinfunction="8D" pintype="input"/>
+      <node ref="IC2" pin="11" pinfunction="B8" pintype="bidirectional"/>
+      <node ref="LED24" pin="2" pinfunction="A" pintype="bidirectional"/>
+      <node ref="U1" pin="11" pinfunction="Q0" pintype="tri_state"/>
+    </net>
+    <net code="34" name="Net-(IC1-Pad34)">
+      <node ref="IC1" pin="34" pinfunction="R~{WB}" pintype="output"/>
+      <node ref="IC14" pin="18" pinfunction="Y1" pintype="tri_state"/>
+      <node ref="IC3" pin="10" pinfunction="I1" pintype="input"/>
+      <node ref="IC8" pin="11" pinfunction="I" pintype="input"/>
+      <node ref="LED34" pin="2" pinfunction="A" pintype="bidirectional"/>
+    </net>
+    <net code="35" name="Net-(IC1-Pad36)">
+      <node ref="IC1" pin="36" pinfunction="BE" pintype="input"/>
+      <node ref="IC11" pin="19" pinfunction="G" pintype="input"/>
+      <node ref="IC12" pin="19" pinfunction="G" pintype="input"/>
+      <node ref="IC14" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="IC3" pin="1" pinfunction="I0" pintype="input"/>
+      <node ref="IC4" pin="4" pinfunction="I0" pintype="input"/>
+      <node ref="IC8" pin="1" pinfunction="I" pintype="input"/>
+      <node ref="R25" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW4" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="36" name="Net-(IC1-Pad37)">
+      <node ref="IC1" pin="37" pinfunction="PHI2" pintype="input"/>
+      <node ref="IC3" pin="12" pinfunction="I0" pintype="input"/>
+      <node ref="IC3" pin="3" pinfunction="O" pintype="output"/>
+      <node ref="IC3" pin="9" pinfunction="I0" pintype="input"/>
+      <node ref="LED33" pin="2" pinfunction="A" pintype="bidirectional"/>
+    </net>
+    <net code="37" name="Net-(IC1-Pad40)">
+      <node ref="IC1" pin="40" pinfunction="~{RESB}" pintype="input"/>
+      <node ref="R59" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="S3" pin="C1" pinfunction="COM_1" pintype="bidirectional"/>
+    </net>
+    <net code="38" name="Net-(IC3-Pad2)">
+      <node ref="IC3" pin="2" pinfunction="I1" pintype="input"/>
+      <node ref="S4" pin="2" pinfunction="2" pintype="bidirectional"/>
+    </net>
+    <net code="39" name="Net-(IC3-Pad4)">
+      <node ref="IC3" pin="4" pinfunction="I0" pintype="input"/>
+      <node ref="IC5" pin="12" pinfunction="I0" pintype="input"/>
+      <node ref="IC5" pin="8" pinfunction="O" pintype="output"/>
+      <node ref="U1" pin="20" pinfunction="~{CS}" pintype="input"/>
+    </net>
+    <net code="40" name="Net-(IC3-Pad5)">
+      <node ref="IC3" pin="5" pinfunction="I1" pintype="input"/>
+      <node ref="IC8" pin="6" pinfunction="O" pintype="output"/>
+    </net>
+    <net code="41" name="Net-(IC3-Pad6)">
+      <node ref="IC3" pin="6" pinfunction="O" pintype="output"/>
+      <node ref="IC8" pin="3" pinfunction="I" pintype="input"/>
+    </net>
+    <net code="42" name="Net-(IC3-Pad8)">
+      <node ref="IC3" pin="8" pinfunction="O" pintype="output"/>
+      <node ref="IC8" pin="5" pinfunction="I" pintype="input"/>
+      <node ref="U1" pin="22" pinfunction="~{OE}" pintype="input"/>
+    </net>
+    <net code="43" name="Net-(IC3-Pad11)">
+      <node ref="IC3" pin="11" pinfunction="O" pintype="output"/>
+      <node ref="IC9" pin="1" pinfunction="I" pintype="input"/>
+      <node ref="U1" pin="27" pinfunction="~{WE}" pintype="input"/>
+    </net>
+    <net code="44" name="Net-(IC3-Pad13)">
+      <node ref="IC3" pin="13" pinfunction="I1" pintype="input"/>
+      <node ref="IC8" pin="10" pinfunction="O" pintype="output"/>
+    </net>
+    <net code="45" name="Net-(IC4-Pad5)">
+      <node ref="IC4" pin="5" pinfunction="I1" pintype="input"/>
+      <node ref="IC8" pin="4" pinfunction="O" pintype="output"/>
+    </net>
+    <net code="46" name="Net-(IC4-Pad8)">
+      <node ref="IC2" pin="19" pinfunction="G" pintype="input"/>
+      <node ref="IC4" pin="8" pinfunction="O" pintype="output"/>
+    </net>
+    <net code="47" name="Net-(IC4-Pad10)">
+      <node ref="IC4" pin="10" pinfunction="I1" pintype="input"/>
+      <node ref="IC4" pin="11" pinfunction="O" pintype="output"/>
+      <node ref="IC4" pin="9" pinfunction="I0" pintype="input"/>
+    </net>
+    <net code="48" name="Net-(IC4-Pad12)">
+      <node ref="IC4" pin="12" pinfunction="I0" pintype="input"/>
+      <node ref="IC4" pin="6" pinfunction="O" pintype="output"/>
+    </net>
+    <net code="49" name="Net-(IC4-Pad13)">
+      <node ref="IC4" pin="13" pinfunction="I1" pintype="input"/>
+      <node ref="IC4" pin="3" pinfunction="O" pintype="output"/>
+    </net>
+    <net code="50" name="Net-(IC5-Pad2)">
+      <node ref="IC5" pin="2" pinfunction="I1" pintype="input"/>
+      <node ref="IC9" pin="4" pinfunction="O" pintype="output"/>
+    </net>
+    <net code="51" name="Net-(IC5-Pad4)">
+      <node ref="IC5" pin="4" pinfunction="I0" pintype="input"/>
+      <node ref="IC9" pin="6" pinfunction="O" pintype="output"/>
+    </net>
+    <net code="52" name="Net-(IC5-Pad6)">
+      <node ref="IC5" pin="6" pinfunction="O" pintype="output"/>
+      <node ref="IC5" pin="9" pinfunction="I0" pintype="input"/>
+    </net>
+    <net code="53" name="Net-(IC5-Pad10)">
+      <node ref="IC5" pin="10" pinfunction="I1" pintype="input"/>
+      <node ref="IC5" pin="3" pinfunction="O" pintype="output"/>
+    </net>
+    <net code="54" name="Net-(IC5-Pad11)">
+      <node ref="IC5" pin="11" pinfunction="O" pintype="output"/>
+      <node ref="IC8" pin="9" pinfunction="I" pintype="input"/>
+    </net>
+    <net code="55" name="Net-(IC5-Pad13)">
+      <node ref="IC5" pin="13" pinfunction="I1" pintype="input"/>
+      <node ref="IC9" pin="2" pinfunction="O" pintype="output"/>
+    </net>
+    <net code="56" name="Net-(IC6-Pad2)">
+      <node ref="IC6" pin="2" pinfunction="TR" pintype="input"/>
+      <node ref="R63" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="S5" pin="C2" pinfunction="COM_2" pintype="bidirectional"/>
+    </net>
+    <net code="57" name="Net-(IC6-Pad3)">
+      <node ref="IC6" pin="3" pinfunction="Q" pintype="output"/>
+      <node ref="S4" pin="4" pinfunction="4" pintype="bidirectional"/>
+    </net>
+    <net code="58" name="Net-(IC7-Pad3)">
+      <node ref="IC7" pin="3" pinfunction="Q" pintype="output"/>
+      <node ref="S4" pin="3" pinfunction="3" pintype="bidirectional"/>
+    </net>
+    <net code="59" name="Net-(IC7-Pad7)">
+      <node ref="IC7" pin="7" pinfunction="DIS" pintype="input"/>
+      <node ref="R61" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R62" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="60" name="Net-(IC10-Pad2)">
+      <node ref="IC10" pin="2" pinfunction="TR" pintype="input"/>
+      <node ref="R65" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="S1" pin="A2" pinfunction="NO_1" pintype="bidirectional"/>
+    </net>
+    <net code="61" name="Net-(IC10-Pad3)">
+      <node ref="IC10" pin="3" pinfunction="Q" pintype="output"/>
+      <node ref="IC4" pin="1" pinfunction="I0" pintype="input"/>
+      <node ref="IC8" pin="13" pinfunction="I" pintype="input"/>
+    </net>
+    <net code="62" name="Net-(IC11-Pad2)">
+      <node ref="IC11" pin="2" pinfunction="A1" pintype="bidirectional"/>
+      <node ref="R1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW1" pin="16" pinfunction="16" pintype="passive"/>
+    </net>
+    <net code="63" name="Net-(IC11-Pad3)">
+      <node ref="IC11" pin="3" pinfunction="A2" pintype="bidirectional"/>
+      <node ref="R2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW1" pin="15" pinfunction="15" pintype="passive"/>
+    </net>
+    <net code="64" name="Net-(IC11-Pad4)">
+      <node ref="IC11" pin="4" pinfunction="A3" pintype="bidirectional"/>
+      <node ref="R3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW1" pin="14" pinfunction="14" pintype="passive"/>
+    </net>
+    <net code="65" name="Net-(IC11-Pad5)">
+      <node ref="IC11" pin="5" pinfunction="A4" pintype="bidirectional"/>
+      <node ref="R4" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW1" pin="13" pinfunction="13" pintype="passive"/>
+    </net>
+    <net code="66" name="Net-(IC11-Pad6)">
+      <node ref="IC11" pin="6" pinfunction="A5" pintype="bidirectional"/>
+      <node ref="R5" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW1" pin="12" pinfunction="12" pintype="passive"/>
+    </net>
+    <net code="67" name="Net-(IC11-Pad7)">
+      <node ref="IC11" pin="7" pinfunction="A6" pintype="bidirectional"/>
+      <node ref="R6" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW1" pin="11" pinfunction="11" pintype="passive"/>
+    </net>
+    <net code="68" name="Net-(IC11-Pad8)">
+      <node ref="IC11" pin="8" pinfunction="A7" pintype="bidirectional"/>
+      <node ref="R7" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW1" pin="10" pinfunction="10" pintype="passive"/>
+    </net>
+    <net code="69" name="Net-(IC11-Pad9)">
+      <node ref="IC11" pin="9" pinfunction="A8" pintype="bidirectional"/>
+      <node ref="R8" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW1" pin="9" pinfunction="9" pintype="passive"/>
+    </net>
+    <net code="70" name="Net-(IC12-Pad2)">
+      <node ref="IC12" pin="2" pinfunction="A1" pintype="bidirectional"/>
+      <node ref="R9" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW2" pin="16" pinfunction="16" pintype="passive"/>
+    </net>
+    <net code="71" name="Net-(IC12-Pad3)">
+      <node ref="IC12" pin="3" pinfunction="A2" pintype="bidirectional"/>
+      <node ref="R10" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW2" pin="15" pinfunction="15" pintype="passive"/>
+    </net>
+    <net code="72" name="Net-(IC12-Pad4)">
+      <node ref="IC12" pin="4" pinfunction="A3" pintype="bidirectional"/>
+      <node ref="R11" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW2" pin="14" pinfunction="14" pintype="passive"/>
+    </net>
+    <net code="73" name="Net-(IC12-Pad5)">
+      <node ref="IC12" pin="5" pinfunction="A4" pintype="bidirectional"/>
+      <node ref="R12" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW2" pin="13" pinfunction="13" pintype="passive"/>
+    </net>
+    <net code="74" name="Net-(IC12-Pad6)">
+      <node ref="IC12" pin="6" pinfunction="A5" pintype="bidirectional"/>
+      <node ref="R13" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW2" pin="12" pinfunction="12" pintype="passive"/>
+    </net>
+    <net code="75" name="Net-(IC12-Pad7)">
+      <node ref="IC12" pin="7" pinfunction="A6" pintype="bidirectional"/>
+      <node ref="R14" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW2" pin="11" pinfunction="11" pintype="passive"/>
+    </net>
+    <net code="76" name="Net-(IC12-Pad8)">
+      <node ref="IC12" pin="8" pinfunction="A7" pintype="bidirectional"/>
+      <node ref="R15" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW2" pin="10" pinfunction="10" pintype="passive"/>
+    </net>
+    <net code="77" name="Net-(IC12-Pad9)">
+      <node ref="IC12" pin="9" pinfunction="A8" pintype="bidirectional"/>
+      <node ref="R16" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW2" pin="9" pinfunction="9" pintype="passive"/>
+    </net>
+    <net code="78" name="Net-(IC14-Pad2)">
+      <node ref="IC14" pin="2" pinfunction="A1" pintype="input"/>
+      <node ref="IC8" pin="12" pinfunction="O" pintype="output"/>
+    </net>
+    <net code="79" name="Net-(IC14-Pad4)">
+      <node ref="IC14" pin="4" pinfunction="A2" pintype="input"/>
+      <node ref="R19" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW3" pin="14" pinfunction="14" pintype="passive"/>
+    </net>
+    <net code="80" name="Net-(IC14-Pad6)">
+      <node ref="IC14" pin="6" pinfunction="A3" pintype="input"/>
+      <node ref="R18" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW3" pin="15" pinfunction="15" pintype="passive"/>
+    </net>
+    <net code="81" name="Net-(IC14-Pad8)">
+      <node ref="IC14" pin="8" pinfunction="A4" pintype="input"/>
+      <node ref="R17" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW3" pin="16" pinfunction="16" pintype="passive"/>
+    </net>
+    <net code="82" name="Net-(IC14-Pad11)">
+      <node ref="IC14" pin="11" pinfunction="A1" pintype="input"/>
+      <node ref="IC16" pin="23" pinfunction="DTR" pintype="bidirectional"/>
+      <node ref="LED38" pin="2" pinfunction="A" pintype="bidirectional"/>
+    </net>
+    <net code="83" name="Net-(IC14-Pad12)">
+      <node ref="IC14" pin="12" pinfunction="Y4" pintype="tri_state"/>
+      <node ref="IC14" pin="9" pinfunction="Y1" pintype="tri_state"/>
+      <node ref="IC2" pin="4" pinfunction="A3" pintype="bidirectional"/>
+    </net>
+    <net code="84" name="Net-(IC14-Pad13)">
+      <node ref="IC14" pin="13" pinfunction="A2" pintype="input"/>
+      <node ref="IC16" pin="19" pinfunction="RTS" pintype="bidirectional"/>
+      <node ref="LED37" pin="2" pinfunction="A" pintype="bidirectional"/>
+    </net>
+    <net code="85" name="Net-(IC14-Pad14)">
+      <node ref="IC14" pin="14" pinfunction="Y3" pintype="tri_state"/>
+      <node ref="IC14" pin="7" pinfunction="Y2" pintype="tri_state"/>
+      <node ref="IC2" pin="3" pinfunction="A2" pintype="bidirectional"/>
+    </net>
+    <net code="86" name="Net-(IC14-Pad15)">
+      <node ref="IC14" pin="15" pinfunction="A3" pintype="input"/>
+      <node ref="IC16" pin="21" pinfunction="TXD" pintype="bidirectional"/>
+    </net>
+    <net code="87" name="Net-(IC14-Pad16)">
+      <node ref="IC14" pin="16" pinfunction="Y2" pintype="tri_state"/>
+      <node ref="IC14" pin="5" pinfunction="Y3" pintype="tri_state"/>
+      <node ref="IC2" pin="2" pinfunction="A1" pintype="bidirectional"/>
+    </net>
+    <net code="88" name="Net-(IC14-Pad19)">
+      <node ref="IC14" pin="19" pinfunction="G" pintype="input"/>
+      <node ref="IC4" pin="2" pinfunction="I1" pintype="input"/>
+      <node ref="IC8" pin="2" pinfunction="O" pintype="output"/>
+    </net>
+    <net code="89" name="Net-(IC15-Pad11)">
+      <node ref="IC15" pin="11" pinfunction="CLK" pintype="input"/>
+      <node ref="IC8" pin="8" pinfunction="O" pintype="output"/>
+    </net>
+    <net code="90" name="Net-(IC15-Pad12)">
+      <node ref="IC15" pin="12" pinfunction="8Q" pintype="tri_state"/>
+      <node ref="LED32" pin="2" pinfunction="A" pintype="bidirectional"/>
+    </net>
+    <net code="91" name="Net-(IC15-Pad13)">
+      <node ref="IC15" pin="13" pinfunction="7Q" pintype="tri_state"/>
+      <node ref="LED31" pin="2" pinfunction="A" pintype="bidirectional"/>
+    </net>
+    <net code="92" name="Net-(IC15-Pad14)">
+      <node ref="IC15" pin="14" pinfunction="6Q" pintype="tri_state"/>
+      <node ref="LED30" pin="2" pinfunction="A" pintype="bidirectional"/>
+    </net>
+    <net code="93" name="Net-(IC15-Pad15)">
+      <node ref="IC15" pin="15" pinfunction="5Q" pintype="tri_state"/>
+      <node ref="LED29" pin="2" pinfunction="A" pintype="bidirectional"/>
+    </net>
+    <net code="94" name="Net-(IC15-Pad16)">
+      <node ref="IC15" pin="16" pinfunction="4Q" pintype="tri_state"/>
+      <node ref="LED28" pin="2" pinfunction="A" pintype="bidirectional"/>
+    </net>
+    <net code="95" name="Net-(IC15-Pad17)">
+      <node ref="IC15" pin="17" pinfunction="3Q" pintype="tri_state"/>
+      <node ref="LED27" pin="2" pinfunction="A" pintype="bidirectional"/>
+    </net>
+    <net code="96" name="Net-(IC15-Pad18)">
+      <node ref="IC15" pin="18" pinfunction="2Q" pintype="tri_state"/>
+      <node ref="IC16" pin="20" pinfunction="RXD" pintype="bidirectional"/>
+      <node ref="LED26" pin="2" pinfunction="A" pintype="bidirectional"/>
+    </net>
+    <net code="97" name="Net-(IC15-Pad19)">
+      <node ref="IC15" pin="19" pinfunction="1Q" pintype="tri_state"/>
+      <node ref="IC16" pin="18" pinfunction="CTS" pintype="bidirectional"/>
+      <node ref="LED25" pin="2" pinfunction="A" pintype="bidirectional"/>
+    </net>
+    <net code="98" name="Net-(IC16-Pad3)">
+      <node ref="IC16" pin="3" pinfunction="D+" pintype="bidirectional"/>
+      <node ref="J1" pin="3" pinfunction="3" pintype="bidirectional"/>
+    </net>
+    <net code="99" name="Net-(IC16-Pad4)">
+      <node ref="IC16" pin="4" pinfunction="D-" pintype="bidirectional"/>
+      <node ref="J1" pin="2" pinfunction="2" pintype="bidirectional"/>
+    </net>
+    <net code="100" name="Net-(IC16-Pad9)">
+      <node ref="IC16" pin="9" pinfunction="RSTB" pintype="bidirectional"/>
+      <node ref="R67" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="101" name="Net-(IC16-Pad13)">
+      <node ref="IC16" pin="13" pinfunction="GPIO.1_/_RXT" pintype="bidirectional"/>
+      <node ref="LED35" pin="2" pinfunction="A" pintype="bidirectional"/>
+    </net>
+    <net code="102" name="Net-(IC16-Pad14)">
+      <node ref="IC16" pin="14" pinfunction="GPIO.0_/_TXT" pintype="bidirectional"/>
+      <node ref="LED36" pin="2" pinfunction="A" pintype="bidirectional"/>
+    </net>
+    <net code="103" name="Net-(LED1-Pad1)">
+      <node ref="LED1" pin="1" pinfunction="K" pintype="bidirectional"/>
+      <node ref="R26" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="104" name="Net-(LED2-Pad1)">
+      <node ref="LED2" pin="1" pinfunction="K" pintype="bidirectional"/>
+      <node ref="R27" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="105" name="Net-(LED3-Pad1)">
+      <node ref="LED3" pin="1" pinfunction="K" pintype="bidirectional"/>
+      <node ref="R28" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="106" name="Net-(LED4-Pad1)">
+      <node ref="LED4" pin="1" pinfunction="K" pintype="bidirectional"/>
+      <node ref="R29" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="107" name="Net-(LED5-Pad1)">
+      <node ref="LED5" pin="1" pinfunction="K" pintype="bidirectional"/>
+      <node ref="R30" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="108" name="Net-(LED6-Pad1)">
+      <node ref="LED6" pin="1" pinfunction="K" pintype="bidirectional"/>
+      <node ref="R31" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="109" name="Net-(LED7-Pad1)">
+      <node ref="LED7" pin="1" pinfunction="K" pintype="bidirectional"/>
+      <node ref="R32" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="110" name="Net-(LED8-Pad1)">
+      <node ref="LED8" pin="1" pinfunction="K" pintype="bidirectional"/>
+      <node ref="R34" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="111" name="Net-(LED9-Pad1)">
+      <node ref="LED9" pin="1" pinfunction="K" pintype="bidirectional"/>
+      <node ref="R33" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="112" name="Net-(LED10-Pad1)">
+      <node ref="LED10" pin="1" pinfunction="K" pintype="bidirectional"/>
+      <node ref="R35" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="113" name="Net-(LED11-Pad1)">
+      <node ref="LED11" pin="1" pinfunction="K" pintype="bidirectional"/>
+      <node ref="R36" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="114" name="Net-(LED12-Pad1)">
+      <node ref="LED12" pin="1" pinfunction="K" pintype="bidirectional"/>
+      <node ref="R37" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="115" name="Net-(LED13-Pad1)">
+      <node ref="LED13" pin="1" pinfunction="K" pintype="bidirectional"/>
+      <node ref="R38" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="116" name="Net-(LED14-Pad1)">
+      <node ref="LED14" pin="1" pinfunction="K" pintype="bidirectional"/>
+      <node ref="R39" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="117" name="Net-(LED15-Pad1)">
+      <node ref="LED15" pin="1" pinfunction="K" pintype="bidirectional"/>
+      <node ref="R40" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="118" name="Net-(LED16-Pad1)">
+      <node ref="LED16" pin="1" pinfunction="K" pintype="bidirectional"/>
+      <node ref="R41" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="119" name="Net-(LED17-Pad1)">
+      <node ref="LED17" pin="1" pinfunction="K" pintype="bidirectional"/>
+      <node ref="R42" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="120" name="Net-(LED18-Pad1)">
+      <node ref="LED18" pin="1" pinfunction="K" pintype="bidirectional"/>
+      <node ref="R43" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="121" name="Net-(LED19-Pad1)">
+      <node ref="LED19" pin="1" pinfunction="K" pintype="bidirectional"/>
+      <node ref="R44" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="122" name="Net-(LED20-Pad1)">
+      <node ref="LED20" pin="1" pinfunction="K" pintype="bidirectional"/>
+      <node ref="R45" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="123" name="Net-(LED21-Pad1)">
+      <node ref="LED21" pin="1" pinfunction="K" pintype="bidirectional"/>
+      <node ref="R46" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="124" name="Net-(LED22-Pad1)">
+      <node ref="LED22" pin="1" pinfunction="K" pintype="bidirectional"/>
+      <node ref="R47" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="125" name="Net-(LED23-Pad1)">
+      <node ref="LED23" pin="1" pinfunction="K" pintype="bidirectional"/>
+      <node ref="R48" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="126" name="Net-(LED24-Pad1)">
+      <node ref="LED24" pin="1" pinfunction="K" pintype="bidirectional"/>
+      <node ref="R49" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="127" name="Net-(LED25-Pad1)">
+      <node ref="LED25" pin="1" pinfunction="K" pintype="bidirectional"/>
+      <node ref="R50" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="128" name="Net-(LED26-Pad1)">
+      <node ref="LED26" pin="1" pinfunction="K" pintype="bidirectional"/>
+      <node ref="R51" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="129" name="Net-(LED27-Pad1)">
+      <node ref="LED27" pin="1" pinfunction="K" pintype="bidirectional"/>
+      <node ref="R52" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="130" name="Net-(LED28-Pad1)">
+      <node ref="LED28" pin="1" pinfunction="K" pintype="bidirectional"/>
+      <node ref="R53" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="131" name="Net-(LED29-Pad1)">
+      <node ref="LED29" pin="1" pinfunction="K" pintype="bidirectional"/>
+      <node ref="R54" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="132" name="Net-(LED30-Pad1)">
+      <node ref="LED30" pin="1" pinfunction="K" pintype="bidirectional"/>
+      <node ref="R55" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="133" name="Net-(LED31-Pad1)">
+      <node ref="LED31" pin="1" pinfunction="K" pintype="bidirectional"/>
+      <node ref="R56" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="134" name="Net-(LED32-Pad1)">
+      <node ref="LED32" pin="1" pinfunction="K" pintype="bidirectional"/>
+      <node ref="R57" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="135" name="Net-(LED33-Pad1)">
+      <node ref="LED33" pin="1" pinfunction="K" pintype="bidirectional"/>
+      <node ref="R69" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="136" name="Net-(LED34-Pad1)">
+      <node ref="LED34" pin="1" pinfunction="K" pintype="bidirectional"/>
+      <node ref="R68" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="137" name="Net-(LED35-Pad1)">
+      <node ref="LED35" pin="1" pinfunction="K" pintype="bidirectional"/>
+      <node ref="R72" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="138" name="Net-(LED36-Pad1)">
+      <node ref="LED36" pin="1" pinfunction="K" pintype="bidirectional"/>
+      <node ref="R73" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="139" name="Net-(LED37-Pad1)">
+      <node ref="LED37" pin="1" pinfunction="K" pintype="bidirectional"/>
+      <node ref="R70" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="140" name="Net-(LED38-Pad1)">
+      <node ref="LED38" pin="1" pinfunction="K" pintype="bidirectional"/>
+      <node ref="R71" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="141" name="Net-(QG1-Pad5)">
+      <node ref="QG1" pin="5" pinfunction="OUT" pintype="output"/>
+      <node ref="S4" pin="1" pinfunction="1" pintype="bidirectional"/>
+    </net>
+    <net code="142" name="Net-(R20-Pad1)">
+      <node ref="IC2" pin="5" pinfunction="A4" pintype="bidirectional"/>
+      <node ref="R20" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW3" pin="13" pinfunction="13" pintype="passive"/>
+    </net>
+    <net code="143" name="Net-(R21-Pad1)">
+      <node ref="IC2" pin="6" pinfunction="A5" pintype="bidirectional"/>
+      <node ref="R21" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW3" pin="12" pinfunction="12" pintype="passive"/>
+    </net>
+    <net code="144" name="Net-(R22-Pad1)">
+      <node ref="IC2" pin="7" pinfunction="A6" pintype="bidirectional"/>
+      <node ref="R22" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW3" pin="11" pinfunction="11" pintype="passive"/>
+    </net>
+    <net code="145" name="Net-(R23-Pad1)">
+      <node ref="IC2" pin="8" pinfunction="A7" pintype="bidirectional"/>
+      <node ref="R23" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW3" pin="10" pinfunction="10" pintype="passive"/>
+    </net>
+    <net code="146" name="Net-(R24-Pad1)">
+      <node ref="IC2" pin="9" pinfunction="A8" pintype="bidirectional"/>
+      <node ref="R24" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW3" pin="9" pinfunction="9" pintype="passive"/>
+    </net>
+    <net code="147" name="Net-(R60-Pad2)">
+      <node ref="R60" pin="2" pinfunction="2" pintype="bidirectional"/>
+      <node ref="R61" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="148" name="VCC">
+      <node ref="C10" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C11" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C12" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C13" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C14" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C15" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C16" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C17" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C18" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C19" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C20" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C9" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="IC1" pin="38" pinfunction="~{SOB}" pintype="input"/>
+      <node ref="IC1" pin="4" pinfunction="~{IRQB}" pintype="input"/>
+      <node ref="IC1" pin="6" pinfunction="~{NMIB}" pintype="input"/>
+      <node ref="IC10" pin="4" pinfunction="R" pintype="input"/>
+      <node ref="IC10" pin="8" pinfunction="V+" pintype="power_in"/>
+      <node ref="IC11" pin="1" pinfunction="DIR" pintype="input"/>
+      <node ref="IC12" pin="1" pinfunction="DIR" pintype="input"/>
+      <node ref="IC17" pin="1" pinfunction="IN" pintype="bidirectional"/>
+      <node ref="IC17" pin="3" pinfunction="EN" pintype="bidirectional"/>
+      <node ref="IC2" pin="1" pinfunction="DIR" pintype="input"/>
+      <node ref="IC6" pin="4" pinfunction="R" pintype="input"/>
+      <node ref="IC6" pin="8" pinfunction="V+" pintype="power_in"/>
+      <node ref="IC7" pin="4" pinfunction="R" pintype="input"/>
+      <node ref="IC7" pin="8" pinfunction="V+" pintype="power_in"/>
+      <node ref="J1" pin="1" pinfunction="1" pintype="bidirectional"/>
+      <node ref="QG1" pin="8" pinfunction="VCC" pintype="power_in"/>
+      <node ref="R58" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R59" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R62" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R63" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R64" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R65" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R66" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R67" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW1" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="SW1" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="SW1" pin="5" pinfunction="5" pintype="passive"/>
+      <node ref="SW1" pin="6" pinfunction="6" pintype="passive"/>
+      <node ref="SW1" pin="7" pinfunction="7" pintype="passive"/>
+      <node ref="SW1" pin="8" pinfunction="8" pintype="passive"/>
+      <node ref="SW2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW2" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="SW2" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="SW2" pin="5" pinfunction="5" pintype="passive"/>
+      <node ref="SW2" pin="6" pinfunction="6" pintype="passive"/>
+      <node ref="SW2" pin="7" pinfunction="7" pintype="passive"/>
+      <node ref="SW2" pin="8" pinfunction="8" pintype="passive"/>
+      <node ref="SW3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW3" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW3" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="SW3" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="SW3" pin="5" pinfunction="5" pintype="passive"/>
+      <node ref="SW3" pin="6" pinfunction="6" pintype="passive"/>
+      <node ref="SW3" pin="7" pinfunction="7" pintype="passive"/>
+      <node ref="SW3" pin="8" pinfunction="8" pintype="passive"/>
+      <node ref="SW4" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="149" name="unconnected-(IC1-Pad1)">
+      <node ref="IC1" pin="1" pinfunction="~{VPB}" pintype="output"/>
+    </net>
+    <net code="150" name="unconnected-(IC1-Pad3)">
+      <node ref="IC1" pin="3" pinfunction="PHI1O" pintype="output"/>
+    </net>
+    <net code="151" name="unconnected-(IC1-Pad5)">
+      <node ref="IC1" pin="5" pinfunction="~{MLB}" pintype="output"/>
+    </net>
+    <net code="152" name="unconnected-(IC1-Pad7)">
+      <node ref="IC1" pin="7" pinfunction="SYNC" pintype="output"/>
+    </net>
+    <net code="153" name="unconnected-(IC1-Pad35)">
+      <node ref="IC1" pin="35" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="154" name="unconnected-(IC1-Pad39)">
+      <node ref="IC1" pin="39" pinfunction="PHI2O" pintype="output"/>
+    </net>
+    <net code="155" name="unconnected-(IC9-Pad8)">
+      <node ref="IC9" pin="8" pinfunction="O" pintype="output"/>
+    </net>
+    <net code="156" name="unconnected-(IC9-Pad10)">
+      <node ref="IC9" pin="10" pinfunction="O" pintype="output"/>
+    </net>
+    <net code="157" name="unconnected-(IC9-Pad12)">
+      <node ref="IC9" pin="12" pinfunction="O" pintype="output"/>
+    </net>
+    <net code="158" name="unconnected-(IC14-Pad3)">
+      <node ref="IC14" pin="3" pinfunction="Y4" pintype="tri_state"/>
+    </net>
+    <net code="159" name="unconnected-(IC14-Pad17)">
+      <node ref="IC14" pin="17" pinfunction="A4" pintype="input"/>
+    </net>
+    <net code="160" name="unconnected-(IC16-Pad1)">
+      <node ref="IC16" pin="1" pinfunction="RI_/_CLK" pintype="bidirectional"/>
+    </net>
+    <net code="161" name="unconnected-(IC16-Pad10)">
+      <node ref="IC16" pin="10" pinfunction="NC_1" pintype="bidirectional"/>
+    </net>
+    <net code="162" name="unconnected-(IC16-Pad11)">
+      <node ref="IC16" pin="11" pinfunction="GPIO.3_/_WAKEUP" pintype="bidirectional"/>
+    </net>
+    <net code="163" name="unconnected-(IC16-Pad12)">
+      <node ref="IC16" pin="12" pinfunction="GPIO.2_/_RS485" pintype="bidirectional"/>
+    </net>
+    <net code="164" name="unconnected-(IC16-Pad15)">
+      <node ref="IC16" pin="15" pinfunction="SUSPENDB" pintype="bidirectional"/>
+    </net>
+    <net code="165" name="unconnected-(IC16-Pad16)">
+      <node ref="IC16" pin="16" pinfunction="NC_2" pintype="bidirectional"/>
+    </net>
+    <net code="166" name="unconnected-(IC16-Pad17)">
+      <node ref="IC16" pin="17" pinfunction="SUSPEND" pintype="bidirectional"/>
+    </net>
+    <net code="167" name="unconnected-(IC16-Pad22)">
+      <node ref="IC16" pin="22" pinfunction="DSR" pintype="bidirectional"/>
+    </net>
+    <net code="168" name="unconnected-(IC16-Pad24)">
+      <node ref="IC16" pin="24" pinfunction="DCD" pintype="bidirectional"/>
+    </net>
+    <net code="169" name="unconnected-(IC17-Pad4)">
+      <node ref="IC17" pin="4" pinfunction="N/C" pintype="no_connect"/>
+    </net>
+    <net code="170" name="unconnected-(J1-Pad4)">
+      <node ref="J1" pin="4" pinfunction="4" pintype="bidirectional"/>
+    </net>
+    <net code="171" name="unconnected-(R60-Pad1)">
+      <node ref="R60" pin="1" pinfunction="1" pintype="bidirectional"/>
+    </net>
+    <net code="172" name="unconnected-(S1-PadA1)">
+      <node ref="S1" pin="A1" pinfunction="NC_1" pintype="bidirectional"/>
+    </net>
+    <net code="173" name="unconnected-(S1-PadB1)">
+      <node ref="S1" pin="B1" pinfunction="NC_2" pintype="bidirectional"/>
+    </net>
+    <net code="174" name="unconnected-(S1-PadB2)">
+      <node ref="S1" pin="B2" pinfunction="NO_2" pintype="bidirectional"/>
+    </net>
+    <net code="175" name="unconnected-(S1-PadC2)">
+      <node ref="S1" pin="C2" pinfunction="COM_2" pintype="bidirectional"/>
+    </net>
+    <net code="176" name="unconnected-(S3-PadA1)">
+      <node ref="S3" pin="A1" pinfunction="NC_1" pintype="bidirectional"/>
+    </net>
+    <net code="177" name="unconnected-(S3-PadB1)">
+      <node ref="S3" pin="B1" pinfunction="NC_2" pintype="bidirectional"/>
+    </net>
+    <net code="178" name="unconnected-(S3-PadB2)">
+      <node ref="S3" pin="B2" pinfunction="NO_2" pintype="bidirectional"/>
+    </net>
+    <net code="179" name="unconnected-(S3-PadC2)">
+      <node ref="S3" pin="C2" pinfunction="COM_2" pintype="bidirectional"/>
+    </net>
+    <net code="180" name="unconnected-(S5-PadA1)">
+      <node ref="S5" pin="A1" pinfunction="NC_1" pintype="bidirectional"/>
+    </net>
+    <net code="181" name="unconnected-(S5-PadA2)">
+      <node ref="S5" pin="A2" pinfunction="NO_1" pintype="bidirectional"/>
+    </net>
+    <net code="182" name="unconnected-(S5-PadB1)">
+      <node ref="S5" pin="B1" pinfunction="NC_2" pintype="bidirectional"/>
+    </net>
+    <net code="183" name="unconnected-(S5-PadC1)">
+      <node ref="S5" pin="C1" pinfunction="COM_1" pintype="bidirectional"/>
+    </net>
+    <net code="184" name="unconnected-(U1-Pad14)">
+      <node ref="U1" pin="14" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="185" name="unconnected-(U1-Pad28)">
+      <node ref="U1" pin="28" pinfunction="VCC" pintype="power_in"/>
+    </net>
+  </nets>
+</export>
