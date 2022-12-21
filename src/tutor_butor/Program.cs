@@ -56,8 +56,8 @@ payloadStream.Read(byteBuffer, 0, 256);
 var intBuffer = byteBuffer.Select(b => (int)b).ToArray();
 
 port.Open();
-port.RtsEnable = true;
 port.DtrEnable = true;
+port.RtsEnable = true;
 
 Console.WriteLine("Ready to send payload. Reset CPU and press enter to continue.");
 Console.ReadKey();
@@ -72,11 +72,11 @@ foreach(var data in intBuffer) {
     Console.WriteLine($"    [{++transferIndex}/256]: 0x{data:X2}");
 
     //Send terminating bit (this will fall into the carry flag when it's rotated out the end of the A register)
-    port.RtsEnable = false;
+    port.DtrEnable = false;
 
     //Clock
-    port.DtrEnable = false;
-    port.DtrEnable = true;
+    port.RtsEnable = false;
+    port.RtsEnable = true;
 
     var send = data;
 
@@ -84,12 +84,12 @@ foreach(var data in intBuffer) {
     foreach(var idx in Enumerable.Range(0, 8)) {
 
         //Set next bit value
-        port.RtsEnable = (send & 0x80) == 0;
+        port.DtrEnable = (send & 0x80) == 0;
         send = send << 1;
 
         //Clock
-        port.DtrEnable = false;
-        port.DtrEnable = true;
+        port.RtsEnable = false;
+        port.RtsEnable = true;
     }
 }
 
