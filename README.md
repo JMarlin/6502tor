@@ -15,7 +15,7 @@ This computer system is simultaneously incredibly simple while, by the token of 
 For that reason, most of the system operation is going to be provided by a series of tutorial articles that will be published over time and which can be found below:
 
 ### Articles:
- - [0000 0001 - Basic controls](articles/0000_0001_basic_controls/article.md)
+ - [0000 0001 - Overview and writing to memory](https://youtu.be/rqbeiZjz4c4)
 
 ### System Overview:
 
