@@ -16,6 +16,7 @@ For that reason, most of the system operation is going to be provided by a serie
 
 ### Articles:
  - [0000 0001 - Overview and writing to memory](https://youtu.be/rqbeiZjz4c4)
+ - [0000 0010 - Memory maps and binary](https://www.youtu.be/jSdUKUccR5Q)
 
 ### System Overview:
 
