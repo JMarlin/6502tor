@@ -17,6 +17,7 @@ For that reason, most of the system operation is going to be provided by a serie
 ### Articles:
  - [0000 0001 - Overview and writing to memory](https://youtu.be/rqbeiZjz4c4)
  - [0000 0010 - Memory maps and binary](https://youtu.be/jSdUKUccR5Q)
+ - [0000 0011 - Reset vector](https://youtu.be/KTeOp61t6co)
 
 ### System Overview:
 
