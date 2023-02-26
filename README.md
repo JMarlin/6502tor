@@ -14,10 +14,11 @@ This computer system is simultaneously incredibly simple while, by the token of 
 
 For that reason, most of the system operation is going to be provided by a series of tutorial articles that will be published over time and which can be found below:
 
-### Articles:
+### Tutorials:
  - [0000 0001 - Overview and writing to memory](https://youtu.be/rqbeiZjz4c4)
  - [0000 0010 - Memory maps and binary](https://youtu.be/jSdUKUccR5Q)
  - [0000 0011 - Reset vector](https://youtu.be/KTeOp61t6co)
+ - [0000 0100 - Executing your first instruction](https://youtu.be/9eZ2-8ygBwk)
 
 ### System Overview:
 
