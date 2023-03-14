@@ -19,6 +19,7 @@ For that reason, most of the system operation is going to be provided by a serie
  - [0000 0010 - Memory maps and binary](https://youtu.be/jSdUKUccR5Q)
  - [0000 0011 - Reset vector](https://youtu.be/KTeOp61t6co)
  - [0000 0100 - Executing your first instruction](https://youtu.be/9eZ2-8ygBwk)
+ - [0000 0101 - Basic I/O](https://youtu.be/15wBBccO2ps)
 
 ### System Overview:
 
